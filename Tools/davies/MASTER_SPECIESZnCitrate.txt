@@ -1,0 +1,2 @@
+Zn		Zn+2		0.0	Zn	65.39
+Citrate		Citrate-3	2.0	189.102	189.102

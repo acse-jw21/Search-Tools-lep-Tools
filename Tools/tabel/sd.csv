@@ -1,0 +1,9 @@
+Reaction,logk,database,name
+HS- = S-2 + H+,-12.918,Amm,-Vm 8.2 9.2590  2.1108  -3.1618 1.1748  0 -0.3 15 0 1 # ref. 1
+HS- + H+ = H2S,6.994,Amm,-Vm  5.0119  4.9799  3.4765  -2.9849  1.4410 # supcrt
+Cs+ =  Cs+,0,llnl,#	Enthalpy of formation:	-210.6 kcal/mol
+Cs+ = Cs+,0.0,wateq4f,#Cs+ primary master species
+S + 2e- = S-2,-15.026,wateq4f,Sulfur              402
+H2S = H2S,-0.997,wateq4f,H2S(g)
+HS- + H+ = H2S,6.9877,core10,
+HS- = S-2 + H+,-17.3,minteq.v4,#T and ionic strength:
