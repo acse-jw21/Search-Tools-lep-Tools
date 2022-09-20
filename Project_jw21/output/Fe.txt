@@ -1,0 +1,2904 @@
+
+----------------------------------------------------
+Find from: Amm
+----------------------------------------------------
+
+
+Fe+2 + H2O = FeOH+ + H+
+-log_k	-9.5
+
+Fe+2 + 3H2O = Fe(OH)3- + 3H+
+-log_k -31.0
+
+Fe+2 + Cl- = FeCl+
+-log_k	0.14
+
+Fe+2 + CO3-2 = FeCO3
+-log_k	4.38
+
+Fe+2 + HCO3- = FeHCO3+
+-log_k	2.0
+
+Fe+2 + SO4-2 = FeSO4
+-log_k	2.25
+
+Fe+2 + HSO4- = FeHSO4+
+-log_k	1.08
+
+Fe+2 + 2HS- = Fe(HS)2
+-log_k	8.95
+
+Fe+2 + 3HS- = Fe(HS)3-
+-log_k	10.987
+
+Fe+2 + HPO4-2 = FeHPO4
+-log_k	3.6
+
+Fe+2 + H2PO4- = FeH2PO4+
+-log_k	2.7
+
+Fe+2 + F- = FeF+
+-log_k	1.0
+
+Fe+2 = Fe+3 + e-
+-log_k	-13.02
+
+Fe+3 + H2O = FeOH+2 + H+
+-log_k	-2.19
+
+Fe+3 + 2 H2O = Fe(OH)2+ + 2 H+
+-log_k	-5.67
+
+Fe+3 + 3 H2O = Fe(OH)3 + 3 H+
+-log_k	-12.56
+
+Fe+3 + 4 H2O = Fe(OH)4- + 4 H+
+-log_k	-21.6
+
+Fe+2 + 2H2O = Fe(OH)2 + 2H+
+-log_k  -20.57
+
+2 Fe+3 + 2 H2O = Fe2(OH)2+4 + 2 H+
+-log_k	-2.95
+
+3 Fe+3 + 4 H2O = Fe3(OH)4+5 + 4 H+
+-log_k	-6.3
+
+Fe+3 + Cl- = FeCl+2
+-log_k	1.48
+
+Fe+3 + 2 Cl- = FeCl2+
+-log_k	2.13
+
+Fe+3 + 3 Cl- = FeCl3
+-log_k	1.13
+
+Fe+3 + SO4-2 = FeSO4+
+-log_k	4.04
+
+Fe+3 + HSO4- = FeHSO4+2
+-log_k	2.48
+
+Fe+3 + 2 SO4-2 = Fe(SO4)2-
+-log_k	5.38
+
+Fe+3 + HPO4-2 = FeHPO4+
+-log_k	5.43
+
+Fe+3 + H2PO4- = FeH2PO4+2
+-log_k	5.43
+
+Fe+3 + F- = FeF+2
+-log_k	6.2
+
+Fe+3 + 2 F- = FeF2+
+-log_k	10.8
+
+Fe+3 + 3 F- = FeF3
+-log_k	14.0
+
+FeCO3 = Fe+2 + CO3-2
+-log_k	-10.89
+
+Fe2O3 + 6 H+ = 2 Fe+3 + 3 H2O
+-log_k	-4.008
+
+FeOOH + 3 H+ = Fe+3 + 2 H2O
+-log_k	-1.0
+
+Fe(OH)3 + 3 H+ = Fe+3 + 3 H2O
+-log_k	4.891
+
+FeS2 + 2 H+ + 2 e- = Fe+2 + 2 HS-
+-log_k	-18.479
+
+FeS + H+ = Fe+2 + HS-
+-log_k	-3.915
+
+FeS + H+ = Fe+2 + HS-
+-log_k	-4.648
+
+Fe3(PO4)2:8H2O = 3 Fe+2 + 2 PO4-3 + 8 H2O
+-log_k	-36.0
+
+FeSO4:7H2O = 7 H2O + Fe+2 + SO4-2
+-log_k	-2.209
+
+KFe3(SO4)2(OH)6 + 6 H+ = 3 Fe+3 + 6 H2O + K+ + 2 SO4-2
+-log_k	-9.21
+
+Fe+2 + 2X- = FeX2
+-log_k	0.44
+
+Hfo_sOH + Fe+2 = Hfo_sOFe+ + H+
+-log_k	-0.95
+
+Hfo_wOH + Fe+2 = Hfo_wOFe+ + H+
+-log_k -2.98
+
+Hfo_wOH + Fe+2 + H2O = Hfo_wOFeOH + 2H+
+-log_k -11.55
+----------------------------------------------------
+Find from: llnl
+----------------------------------------------------
+
+
+Fe+2 =  Fe+2
+log_k 0
+
+1.0000 H+ + 1.0000 Fe++ + 0.2500 O2  =  Fe+++ +0.5000 H2O
+log_k           +8.4899
+
+2.0000 HAcetate + 1.0000 Fe++  =  Fe(Acetate)2 +2.0000 H+
+log_k           -7.0295
+
+2.0000 H2O + 1.0000 Fe++  =  Fe(OH)2 +2.0000 H+
+log_k           -20.6
+
+2.0000 H2O + 1.0000 Fe+++  =  Fe(OH)2+ +2.0000 H+
+log_k           -5.67
+
+3.0000 H2O + 1.0000 Fe+++  =  Fe(OH)3 +3.0000 H+
+log_k           -12
+
+3.0000 H2O + 1.0000 Fe++  =  Fe(OH)3- +3.0000 H+
+log_k           -31
+
+4.0000 H2O + 1.0000 Fe+++  =  Fe(OH)4- +4.0000 H+
+log_k           -21.6
+
+4.0000 H2O + 1.0000 Fe++  =  Fe(OH)4-- +4.0000 H+
+log_k           -46
+
+2.0000 SO4-- + 1.0000 Fe+++  =  Fe(SO4)2-
+log_k           +3.2137
+
+2.0000 H2O + 2.0000 Fe+++  =  Fe2(OH)2++++ +2.0000 H+
+log_k           -2.95
+
+4.0000 H2O + 3.0000 Fe+++  =  Fe3(OH)4+5 +4.0000 H+
+log_k           -6.3
+
+1.0000 Fe++ + 1.0000 HAcetate  =  FeAcetate+ +1.0000 H+
+log_k           -3.4671
+
+1.0000 HCO3- + 1.0000 Fe++  =  FeCO3 +1.0000 H+
+log_k           -5.5988
+
+1.0000 HCO3- + 1.0000 Fe+++  =  FeCO3+ +1.0000 H+
+log_k           -0.6088
+
+1.0000 Fe++ + 1.0000 Cl-  =  FeCl+
+log_k           -0.1605
+
+1.0000 Fe+++ + 1.0000 Cl-  =  FeCl++
+log_k           -0.8108
+
+2.0000 Cl- + 1.0000 Fe++  =  FeCl2
+log_k           -2.4541
+
+2.0000 Cl- + 1.0000 Fe+++  =  FeCl2+
+log_k           +2.1300
+
+4.0000 Cl- + 1.0000 Fe+++  =  FeCl4-
+log_k           -0.79
+
+4.0000 Cl- + 1.0000 Fe++  =  FeCl4--
+log_k           -1.9
+
+1.0000 Fe++ + 1.0000 F-  =  FeF+
+log_k           +1.3600
+
+1.0000 Fe+++ + 1.0000 F-  =  FeF++
+log_k           +4.1365
+
+2.0000 F- + 1.0000 Fe+++  =  FeF2+
+log_k           +8.3498
+
+1.0000 HPO4-- + 1.0000 H+ + 1.0000 Fe++  =  FeH2PO4+
+log_k           +2.7000
+
+1.0000 HPO4-- + 1.0000 H+ + 1.0000 Fe+++  =  FeH2PO4++
+log_k           +4.1700
+
+1.0000 HCO3- + 1.0000 Fe++  =  FeHCO3+
+log_k           +2.7200
+
+1.0000 HPO4-- + 1.0000 Fe++  =  FeHPO4
+log_k           +3.6000
+
+1.0000 HPO4-- + 1.0000 Fe+++  =  FeHPO4+
+log_k           +10.1800
+
+1.0000 NO2- + 1.0000 Fe+++  =  FeNO2++
+log_k           +3.1500
+
+1.0000 NO3- + 1.0000 Fe+++  =  FeNO3++
+log_k           +1.0000
+
+1.0000 H2O + 1.0000 Fe++  =  FeOH+ +1.0000 H+
+log_k           -9.5
+
+1.0000 H2O + 1.0000 Fe+++  =  FeOH++ +1.0000 H+
+log_k           -2.19
+
+1.0000 HPO4-- + 1.0000 Fe++  =  FePO4- +1.0000 H+
+log_k           -4.3918
+
+1.0000 SO4-- + 1.0000 Fe++  =  FeSO4
+log_k           +2.2000
+
+1.0000 SO4-- + 1.0000 Fe+++  =  FeSO4+
+log_k           +1.9276
+
+Ca3Fe2(SiO4)3 +12.0000 H+  =  + 2.0000 Fe+++ + 3.0000 Ca++ + 3.0000 SiO2 + 6.0000 H2O
+log_k           33.3352
+
+KFe3AlSi3O10(OH)2 +10.0000 H+  =  + 1.0000 Al+++ + 1.0000 K+ + 3.0000 Fe++ + 3.0000 SiO2 + 6.0000 H2O
+log_k           29.4693
+
+FeAsS +1.5000 H2O +0.5000 H+  =  + 0.5000 AsH3 + 0.5000 H2AsO3- + 1.0000 Fe++ + 1.0000 HS-
+log_k           -14.4453
+
+Fe(UO2)2(PO4)2 +2.0000 H+  =  + 1.0000 Fe++ + 2.0000 HPO4-- + 2.0000 UO2++
+log_k           -17.7240
+
+Cu5FeS4 +4.0000 H+  =  + 1.0000 Cu++ + 1.0000 Fe++ + 4.0000 Cu+ + 4.0000 HS-
+log_k           -102.4369
+
+Ca4Al2Fe2O10 +20.0000 H+  =  + 2.0000 Al+++ + 2.0000 Fe+++ + 4.0000 Ca++ + 10.0000 H2O
+log_k           140.5050
+
+CuFeS2 +2.0000 H+  =  + 1.0000 Cu++ + 1.0000 Fe++ + 2.0000 HS-
+log_k           -32.5638
+
+Fe2Al2SiO5(OH)4 +10.0000 H+  =  + 1.0000 SiO2 + 2.0000 Al+++ + 2.0000 Fe++ + 7.0000 H2O
+log_k           32.8416
+
+FeCr2O4 +8.0000 H+  =  + 1.0000 Fe++ + 2.0000 Cr+++ + 4.0000 H2O
+log_k           15.1685
+
+Na.954K.543Ca.761Mg.124Sr.036Ba.062Mn.002Al3.45F +13.8680 H+  =  + 0.0020 Mn++ + 0.0170 Fe+++ + 0.0360 Sr++ + 0.0620 Ba++ + 0.1240 Mg++ + 0.5430 K+ + 0.7610 Ca++ + 0.9540 Na+ + 3.4500 Al+++ + 14.5330 SiO2 17.8560 H2O
+log_k           -9.7861
+
+Na.954K.543Ca.761Mg.124Sr.036Ba.062Mn.002Al3.45Fe.017Si14.5330O46.922H21.844 +13.8680 H+  =  + 0.0020 Mn++ + 0.0170 Fe+++ + 0.0360 Sr++ + 0.0620 Ba++ + 0.1240 Mg++ + 0.5430 K+ + 0.7610 Ca++ + 0.9540 Na+ + 3.4500 Al+++ + 14.5330 SiO2 + 17.8560 H2O
+log_k           -9.7861
+
+Ca1.7335Al3.45Fe.017Si14.533O36:10.922H2O +13.8680 H+  =  + 0.0170 Fe+++ + 1.7335 Ca++ + 3.4500 Al+++ + 14.5330 SiO2 + 17.8560 H2O
+log_k           -7.0095
+
+Cs3.467Al3.45Fe.017Si14.533O36:10.922H2O +13.8680 H+  =  + 0.0170 Fe+++ + 3.4500 Al+++ + 3.4670 Cs+ + 14.5330 SiO2 + 17.8560 H2O
+log_k           -13.0578
+
+K3.467Al3.45Fe.017Si14.533O36:10.922H2O +13.8680 H+  =  + 0.0170 Fe+++ + 3.4500 Al+++ + 3.4670 K+ + 14.5330 SiO2 + 17.8560 H2O
+log_k           -10.9485
+
+(NH4)3.467Al3.45Fe.017Si14.533O36:10.922H2O +10.4010 H+  =  + 0.0170 Fe+++ + 3.4500 Al+++ + 3.4670 NH3 + 14.5330 SiO2 + 17.8560 H2O
+log_k           -42.4791
+
+Na3.467Al3.45Fe.017Si14.533O36:10.922H2O +13.8680 H+  =  + 0.0170 Fe+++ + 3.4500 Al+++ + 3.4670 Na+ + 14.5330 SiO2 + 17.8560 H2O
+log_k           -7.1363
+
+Sr1.7335Al3.45Fe.017Si14.533O36:10.922H2O +13.8680 H+  =  + 0.0170 Fe+++ + 1.7335 Sr++ + 3.4500 Al+++ + 14.5330 SiO2 + 17.8560 H2O
+log_k           -7.1491
+
+Sr.036Mg.124Ca.761Mn.002Ba.062K.543Na.954Al3.45F +13.8680 H+  =  + 0.0020 Mn++ + 0.0170 Fe+++ + 0.0360 Sr++ + 0.0620 Ba++ + 0.1240 Mg++ + 0.5430 K+ + 0.7610 Ca++ + 0.9540 Na+ + 3.4500 Al+++ + 6.9340 H2O 14.5330 SiO2
+log_k           25.8490
+
+Sr.036Mg.124Ca.761Mn.002Ba.062K.543Na.954Al3.45Fe.017Si14.533O36 +13.8680 H+  =  + 0.0020 Mn++ + 0.0170 Fe+++ + 0.0360 Sr++ + 0.0620 Ba++ + 0.1240 Mg++ + 0.5430 K+ + 0.7610 Ca++ + 0.9540 Na+ + 3.4500 Al+++ + 6.9340 H2O + 14.5330 SiO2
+log_k           25.8490
+
+Ca1.7335Al3.45Fe.017Si14.533O36 +13.8680 H+  =  + 0.0170 Fe+++ + 1.7335 Ca++ + 3.4500 Al+++ + 6.9340 H2O + 14.5330 SiO2
+log_k           28.6255
+
+Cs3.467Al3.45Fe.017Si14.533O36 +13.8680 H+  =  + 0.0170 Fe+++ + 3.4500 Al+++ + 3.4670 Cs+ + 6.9340 H2O + 14.5330 SiO2
+log_k           22.5771
+
+K3.467Al3.45Fe.017Si14.533O36 +13.8680 H+  =  + 0.0170 Fe+++ + 3.4500 Al+++ + 3.4670 K+ + 6.9340 H2O + 14.5330 SiO2
+log_k           24.6865
+
+(NH4)3.467Al3.45Fe.017Si14.533O36 +10.4010 H+  =  + 0.0170 Fe+++ + 3.4500 Al+++ + 3.4670 NH3 + 6.9340 H2O + 14.5330 SiO2
+log_k           -6.8441
+
+Na3.467Al3.45Fe.017Si14.533O36 +13.8680 H+  =  + 0.0170 Fe+++ + 3.4500 Al+++ + 3.4670 Na+ + 6.9340 H2O + 14.5330 SiO2
+log_k           28.4987
+
+Sr1.7335Al3.45Fe.017Si14.533O36 +13.8680 H+  =  + 0.0170 Fe+++ + 1.7335 Sr++ + 3.4500 Al+++ + 6.9340 H2O + 14.5330 SiO2
+log_k           28.4859
+
+Ca1.7335Al3.45Fe.017Si14.533036 +13.8680 H+  =  + 0.0170 Fe+++ + 1.7335 Ca++ + 3.4500 Al+++ + 14.5330 SiO2 + 18.5790 H2O
+log_k           -7.0108
+
+Ca1.7335Al3.45Fe.017Si14.533O36:11.645H2O +13.8680 H+  =  + 0.0170 Fe+++ + 1.7335 Ca++ + 3.4500 Al+++ + 14.5330 SiO2 + 18.5790 H2O
+log_k           -7.0108
+
+Cs3.467Al3.45Fe.017Si14.533036 +13.8680 H+  =  + 0.0170 Fe+++ + 3.4500 Al+++ + 3.4670 Cs+ + 13.1640 H2O + 14.5330 SiO2
+log_k           -13.0621
+
+Cs3.467Al3.45Fe.017Si14.533O36:6.23H2O +13.8680 H+  =  + 0.0170 Fe+++ + 3.4500 Al+++ + 3.4670 Cs+ + 13.1640 H2O + 14.5330 SiO2
+log_k           -13.0621
+
+K3.467Al3.45Fe.017Si14.533036 +13.8680 H+  =  + 0.0170 Fe+++ + 3.4500 Al+++ + 3.4670 K+ + 14.4330 H2O + 14.5330 SiO2
+log_k           -10.9523
+
+K3.467Al3.45Fe.017Si14.533O36:7.499H2O +13.8680 H+  =  + 0.0170 Fe+++ + 3.4500 Al+++ + 3.4670 K+ + 14.4330 H2O + 14.5330 SiO2
+log_k           -10.9523
+
+Na3.467Al3.45Fe.017Si14.533036 +13.8680 H+  =  + 0.0170 Fe+++ + 3.4500 Al+++ + 3.4670 Na+ + 14.5330 SiO2 + 17.8110 H2O
+log_k           -7.1384
+
+Na3.467Al3.45Fe.017Si14.533O36:10.877H2O +13.8680 H+  =  + 0.0170 Fe+++ + 3.4500 Al+++ + 3.4670 Na+ + 14.5330 SiO2 + 17.8110 H2O
+log_k           -7.1384
+
+Sr1.7335Al3.45Fe.017Si14.533036 +13.8680 H+  =  + 0.0170 Fe+++ + 1.7335 Sr++ + 3.4500 Al+++ + 14.5330 SiO2 + 20.8270 H2O
+log_k           -7.1498
+
+Sr1.7335Al3.45Fe.017Si14.533O36:13.893H2O +13.8680 H+  =  + 0.0170 Fe+++ + 1.7335 Sr++ + 3.4500 Al+++ + 14.5330 SiO2 + 20.8270 H2O
+log_k           -7.1498
+
+CoFe2O4 +8.0000 H+  =  + 1.0000 Co++ + 2.0000 Fe+++ + 4.0000 H2O
+log_k           0.8729
+
+PbFe3(PO4)(SO4)(OH)6 +7.0000 H+  =  + 1.0000 HPO4-- + 1.0000 Pb++ + 1.0000 SO4-- + 3.0000 Fe+++ + 6.0000 H2O
+log_k           -9.7951
+
+Fe2Fe2SiO5(OH)4 +10.0000 H+  =  + 1.0000 SiO2 + 2.0000 Fe++ + 2.0000 Fe+++ + 7.0000 H2O
+log_k           16.2603
+
+Fe5AlAlSi3O10(OH)8 +16.0000 H+  =  + 2.0000 Al+++ + 3.0000 SiO2 + 5.0000 Fe++ + 12.0000 H2O
+log_k           52.2821
+
+Fe5AlAlSi3O10(OH)8 +16.0000 H+  =  + 2.0000 Al+++ + 3.0000 SiO2 + 5.0000 Fe++ + 12.0000 H2O
+log_k           55.6554
+
+CuFeO2 +4.0000 H+  =  + 1.0000 Cu+ + 1.0000 Fe+++ + 2.0000 H2O
+log_k           -6.4172
+
+Ca2FeAl2Si3O12OH +13.0000 H+  =  + 1.0000 Fe+++ + 2.0000 Al+++ + 2.0000 Ca++ + 3.0000 SiO2 + 7.0000 H2O
+log_k           32.9296
+
+FeCa2Al2(OH)(SiO4)3 +13.0000 H+  =  + 1.0000 Fe+++ + 2.0000 Al+++ + 2.0000 Ca++ + 3.0000 SiO2 + 7.0000 H2O
+log_k           32.9296
+
+Fe2SiO4 +4.0000 H+  =  + 1.0000 SiO2 + 2.0000 Fe++ + 2.0000 H2O
+log_k           19.1113
+
+Fe +2.0000 H+ +0.5000 O2  =  + 1.0000 Fe++ + 1.0000 H2O
+log_k           59.0325
+
+Fe(OH)2 +2.0000 H+  =  + 1.0000 Fe++ + 2.0000 H2O
+log_k           13.9045
+
+Fe(OH)3 +3.0000 H+  =  + 1.0000 Fe+++ + 3.0000 H2O
+log_k           5.6556
+
+Fe2(SO4)3  =  + 2.0000 Fe+++ + 3.0000 SO4--
+log_k           3.2058
+
+FeF2  =  + 1.0000 Fe++ + 2.0000 F-
+log_k           -2.3817
+
+FeF3  =  + 1.0000 Fe+++ + 3.0000 F-
+log_k           -19.2388
+
+FeO +2.0000 H+  =  + 1.0000 Fe++ + 1.0000 H2O
+log_k           13.5318
+
+FeSO4  =  + 1.0000 Fe++ + 1.0000 SO4--
+log_k           2.6565
+
+FeV2O4 +8.0000 H+  =  + 1.0000 Fe++ + 2.0000 V+++ + 4.0000 H2O
+log_k           280.5528
+
+CaFe2O4 +8.0000 H+  =  + 1.0000 Ca++ + 2.0000 Fe+++ + 4.0000 H2O
+log_k           21.5217
+
+CuFe2O4 +8.0000 H+  =  + 1.0000 Cu++ + 2.0000 Fe+++ + 4.0000 H2O
+log_k           10.3160
+
+Ca2Fe2O5 +10.0000 H+  =  + 2.0000 Ca++ + 2.0000 Fe+++ + 5.0000 H2O
+log_k           56.8331
+
+MgFe2O4 +8.0000 H+  =  + 1.0000 Mg++ + 2.0000 Fe+++ + 4.0000 H2O
+log_k           21.0551
+
+ZnFe2O4 +8.0000 H+  =  + 1.0000 Zn++ + 2.0000 Fe+++ + 4.0000 H2O
+log_k           11.7342
+
+FeSe2 +0.5000 H2O  =  + 0.2500 O2 + 1.0000 Fe+++ + 1.0000 H+ + 2.0000 Se--
+log_k           -80.7998
+
+FeSiO3 +2.0000 H+  =  + 1.0000 Fe++ + 1.0000 H2O + 1.0000 SiO2
+log_k           7.4471
+
+FeOOH +3.0000 H+  =  + 1.0000 Fe+++ + 2.0000 H2O
+log_k           0.5345
+
+Fe3Si2O5(OH)4 +6.0000 H+  =  + 2.0000 SiO2 + 3.0000 Fe++ + 5.0000 H2O
+log_k           22.6701
+
+CaFe(SiO3)2 +4.0000 H+  =  + 1.0000 Ca++ + 1.0000 Fe++ + 2.0000 H2O + 2.0000 SiO2
+log_k           19.6060
+
+Fe2O3 +6.0000 H+  =  + 2.0000 Fe+++ + 3.0000 H2O
+log_k           0.1086
+
+FeAl2O4 +8.0000 H+  =  + 1.0000 Fe++ + 2.0000 Al+++ + 4.0000 H2O
+log_k           28.8484
+
+FeTiO3 +2.0000 H+ +1.0000 H2O  =  + 1.0000 Fe++ + 1.0000 Ti(OH)4
+log_k           0.9046
+
+KFe3(SO4)2(OH)6 +6.0000 H+  =  + 1.0000 K+ + 2.0000 SO4-- + 3.0000 Fe+++ + 6.0000 H2O
+log_k           -9.3706
+
+NaFe3(SO4)2(OH)6 +6.0000 H+  =  + 1.0000 Na+ + 2.0000 SO4-- + 3.0000 Fe+++ + 6.0000 H2O
+log_k           -5.4482
+
+FeCl2  =  + 1.0000 Fe++ + 2.0000 Cl-
+log_k           9.0945
+
+Fe3O4 +8.0000 H+  =  + 1.0000 Fe++ + 2.0000 Fe+++ + 4.0000 H2O
+log_k           10.4724
+
+FeSO4:7H2O  =  + 1.0000 Fe++ + 1.0000 SO4-- + 7.0000 H2O
+log_k           -2.3490
+
+Fe3Si4O10(OH)2 +6.0000 H+  =  + 3.0000 Fe++ + 4.0000 H2O + 4.0000 SiO2
+log_k           13.9805
+
+FeCl3  =  + 1.0000 Fe+++ + 3.0000 Cl-
+log_k           13.5517
+
+NaFeO2 +4.0000 H+  =  + 1.0000 Fe+++ + 1.0000 Na+ + 2.0000 H2O
+log_k           19.8899
+
+Ca.165Fe2Al.33Si3.67H2O12 +7.3200 H+  =  + 0.1650 Ca++ + 0.3300 Al+++ + 2.0000 Fe+++ + 3.6700 SiO2 + 4.6600 H2O
+log_k           -11.5822
+
+Cs.33Si4Fe1.67Mg.33H2O12 +6.0000 H+  =  + 0.3300 Cs+ + 0.3300 Mg++ + 1.6700 Fe+++ + 4.0000 H2O + 4.0000 SiO2
+log_k           5.7975
+
+H.33Fe2Al.33Si3.67H2O12 +6.9900 H+  =  + 0.3300 Al+++ + 2.0000 Fe+++ + 3.6700 SiO2 + 4.6600 H2O
+log_k           -12.5401
+
+K.33Fe2Al.33Si3.67H2O12 +7.3200 H+  =  + 0.3300 Al+++ + 0.3300 K+ + 2.0000 Fe+++ + 3.6700 SiO2 + 4.6600 H2O
+log_k           -11.8648
+
+Mg.165Fe2Al.33Si3.67H2O12 +7.3200 H+  =  + 0.1650 Mg++ + 0.3300 Al+++ + 2.0000 Fe+++ + 3.6700 SiO2 + 4.6600 H2O
+log_k           -11.6200
+
+Na.33Fe2Al.33Si3.67H2O12 +7.3200 H+  =  + 0.3300 Al+++ + 0.3300 Na+ + 2.0000 Fe+++ + 3.6700 SiO2 + 4.6600 H2O
+log_k           -11.5263
+
+FeS2 +1.0000 H2O  =  + 0.2500 H+ + 0.2500 SO4-- + 1.0000 Fe++ + 1.7500 HS-
+log_k           -24.6534
+
+FeS +1.0000 H+  =  + 1.0000 Fe++ + 1.0000 HS-
+log_k           -3.7193
+
+Mg3Fe2Al2Si3O10(OH)8 +16.0000 H+  =  + 2.0000 Al+++ + 2.0000 Fe++ + 3.0000 Mg++ + 3.0000 SiO2 + 12.0000 H2O
+log_k           60.9638
+
+Mg3Fe2Al2Si3O10(OH)8 +16.0000 H+  =  + 2.0000 Al+++ + 2.0000 Fe++ + 3.0000 Mg++ + 3.0000 SiO2 + 12.0000 H2O
+log_k           64.3371
+
+FeCO3 +1.0000 H+  =  + 1.0000 Fe++ + 1.0000 HCO3-
+log_k           -0.1920
+
+Ca.025Na.1K.2Fe++.5Fe+++.2Mg1.15Al1.25Si3.5H2O12 +8.0000 H+  =  + 0.0250 Ca++ + 0.1000 Na+ + 0.2000 Fe+++ + 0.2000 K+ + 0.5000 Fe++ + 1.1500 Mg++ + 1.2500 Al+++ + 3.5000 SiO2 + 5.0000 H2O
+log_k           17.4200
+
+Ca.025Na.1K.2Fe.5Fe.2Mg1.15Al1.25Si3.5H2O12 +8.0000 H+  =  + 0.0250 Ca++ + 0.1000 Na+ + 0.2000 Fe+++ + 0.2000 K+ + 0.5000 Fe++ + 1.1500 Mg++ + 1.2500 Al+++ + 3.5000 SiO2 + 5.0000 H2O
+log_k           17.4200
+
+Ca.02Na.15K.2Fe++.29Fe+++.16Mg.9Al1.25Si3.75H2O1 +7.0000 H+  =  + 0.0200 Ca++ + 0.1500 Na+ + 0.1600 Fe+++ + 0.2000 K+ + 0.2900 Fe++ + 0.9000 Mg++ + 1.2500 Al+++ + 3.7500 SiO2 + 4.5000 H2O
+log_k           11.0405
+
+Ca.02Na.15K.2Fe.29Fe.16Mg.9Al1.25Si3.75H2O12 +7.0000 H+  =  + 0.0200 Ca++ + 0.1500 Na+ + 0.1600 Fe+++ + 0.2000 K+ + 0.2900 Fe++ + 0.9000 Mg++ + 1.2500 Al+++ + 3.7500 SiO2 + 4.5000 H2O
+log_k           11.0405
+
+FePO4:2H2O +1.0000 H+  =  + 1.0000 Fe+++ + 1.0000 HPO4-- + 2.0000 H2O
+log_k           -11.3429
+
+NiFe2O4 +8.0000 H+  =  + 1.0000 Ni++ + 2.0000 Fe+++ + 4.0000 H2O
+log_k           9.7876
+
+FeS +1.0000 H+  =  + 1.0000 Fe++ + 1.0000 HS-
+log_k           -3.8184
+
+Fe3(PO4)2:8H2O +2.0000 H+  =  + 2.0000 HPO4-- + 3.0000 Fe++ + 8.0000 H2O
+log_k           -4.7237
+
+Fe.947O +2.0000 H+  =  + 0.1060 Fe+++ + 0.8410 Fe++ + 1.0000 H2O
+log_k           12.4113
+
+Fe+2 + 2X- = FeX2
+log_k   0.44
+
+Hfo_sOH + Fe+2 = Hfo_sOFe+ + H+
+log_k   0.7     # LFER using table 10.5
+
+Hfo_wOH + Fe+2 = Hfo_wOFe+ + H+
+log_k -2.5      # LFER using table 10.5
+----------------------------------------------------
+Find from: wate
+----------------------------------------------------
+
+
+Fe+2 = Fe+2
+log_k           0.0
+
+Fe+2 = Fe+3 + e-
+log_k           -13.020
+
+Fe+3 + H2O = FeOH+2 + H+
+log_k           -2.19
+
+Fe+2 + H2O = FeOH+ + H+
+log_k           -9.5
+
+Fe+2 + 3H2O = Fe(OH)3- + 3H+
+log_k           -31.0
+
+Fe+3 + SO4-2 = FeSO4+
+log_k           4.04
+
+Fe+3 + Cl- = FeCl+2
+log_k           1.48
+
+Fe+3 + 2Cl- = FeCl2+
+log_k           2.13
+
+Fe+3 + 3Cl- = FeCl3
+log_k           1.13
+
+Fe+2 + SO4-2 = FeSO4
+log_k           2.25
+
+Fe+3 + 2H2O = Fe(OH)2+ + 2H+
+log_k           -5.67
+
+Fe+3 + 3H2O = Fe(OH)3 + 3H+
+log_k           -12.56
+
+Fe+3 + 4H2O = Fe(OH)4- + 4H+
+log_k           -21.6
+
+Fe+2 + 2H2O = Fe(OH)2 + 2H+
+log_k           -20.57
+
+Fe+2 + H2PO4- = FeH2PO4+
+log_k           2.7
+
+Fe+2 + HPO4-2 = FeHPO4
+log_k           3.6
+
+Fe+3 + HPO4-2 = FeHPO4+
+log_k           5.43
+
+Fe+2 + HSO4- = FeHSO4+
+log_k           1.08
+
+Fe+3 + H2PO4- = FeH2PO4+2
+log_k           5.43
+
+Fe+3 + HSO4- = FeHSO4+2
+log_k           2.48
+
+Fe+3 + F- = FeF+2
+log_k           6.2
+
+Fe+3 + 2F- = FeF2+
+log_k           10.8
+
+Fe+3 + 3F- = FeF3
+log_k           14.0
+
+Fe+3 + 2SO4-2 = Fe(SO4)2-
+log_k           5.38
+
+2Fe+3 + 2H2O = Fe2(OH)2+4 + 2H+
+log_k           -2.95
+
+3Fe+3 + 4H2O = Fe3(OH)4+5 + 4H+
+log_k           -6.3
+
+Fe+2 + F- = FeF+
+log_k           1.0
+
+Fe+2 + 2HS- = Fe(HS)2
+log_k           8.95
+
+Fe+2 + 3HS- = Fe(HS)3-
+log_k           10.987
+
+Fe+3 + Fulvate-2 = FeFulvate+
+log_k           9.4
+
+Fe+3 + Humate-2 = FeHumate+
+log_k           9.4
+
+Fe+2 + Cl- = FeCl+
+log_k           0.14
+
+Fe+2 + HCO3- = FeHCO3+
+log_k           2.0
+
+Fe+2 + CO3-2 = FeCO3
+log_k           4.38
+
+FeCO3 = Fe+2 + CO3-2
+log_k           -10.45
+
+FeS + H+ = Fe+2 + HS-
+log_k           -4.648
+
+FeCO3 = Fe+2 + CO3-2
+log_k           -10.89
+
+Fe3(PO4)2:8H2O = 3Fe+2 + 2PO4-3 + 8H2O
+log_k           -36.0
+
+Fe3O4 + 8H+ = 2Fe+3 + Fe+2 + 4H2O
+log_k           3.737
+
+Fe2O3 + 6H+ = 2Fe+3 + 3H2O
+log_k           -4.008
+
+Fe2O3 + 6H+ = 2Fe+3 + 3H2O
+log_k           6.386
+
+FeOOH + 3H+ = Fe+3 + 2H2O
+log_k           -1.0
+
+Fe3Si2O5(OH)4 + 6H+ = 3Fe+2 + 2 H4SiO4 + H2O
+log_k           20.810
+
+Fe(OH)3 + 3H+ = Fe+3 + 3H2O
+log_k           4.891
+
+KFe3AlSi3O10(OH)2 + 10H2O = K+ + 3Fe+2 + Al(OH)4- + 3H4SiO4 + 6OH-
+log_k           -85.645
+
+FeS2 + 2H+ + 2e- = Fe+2 + 2HS-
+log_k           -18.479
+
+(HNaK)0.09Mg0.29Fe0.24Al1.57Si3.93O10(OH)2 + 10H2O = 0.09H+ + 0.09Na+ + 0.09K+ + 0.29Mg+2 + 0.24Fe+3 + 1.57Al(OH)4- + 3.93H4SiO4
+log_k           -34.913
+
+(HNaK)0.14Mg0.45Fe0.33Al1.47Si3.82O10(OH)2 + 9.16H2O + 0.84H+ = 0.14H+ + 0.14Na+ + 0.14K+ + 0.45Mg+2 + 0.33Fe+3 + 1.47Al(OH)4- + 3.82H4SiO4
+log_k           -29.688
+
+Fe3S4 + 4H+ = 2Fe+3 + Fe+2 + 4HS-
+log_k           -45.035
+
+FeS + H+ = Fe+2 + HS-
+log_k           -3.915
+
+(K0.77Na0.03H0.2)Fe3(SO4)2(OH)6 + 5.8H+ = 0.77K+ + 0.03Na+ + 3Fe+3 + 2SO4-2 + 6H2O
+log_k           -9.83   # WATEQ4F, Alpers and others, 1989
+
+FePO4:2H2O = Fe+3 + PO4-3 + 2H2O
+log_k           -26.4
+
+Fe(OH)2.7Cl0.3 + 2.7H+ = Fe+3 + 2.7H2O + 0.3 Cl-
+log_k           -3.040
+
+NaFe3(SO4)2(OH)6 + 6H+ = Na+ + 3Fe+3 + 2SO4-2 + 6H2O
+log_k           -5.280
+
+KFe3(SO4)2(OH)6 + 6H+ = K+ + 3Fe+3 + 2SO4-2 + 6H2O
+log_k           -9.21
+
+CuFeO2 + 4H+ = Cu+ + Fe+3 + 2H2O
+log_k           -8.920
+
+CuFe2O4 + 8H+ = Cu+2 + 2Fe+3 + 4H2O
+log_k           5.880
+
+CuFeS2 + 2H+ = Cu+2 + Fe+2 + 2HS-
+log_k           -35.270
+
+(H3O)Fe3(SO4)2(OH)6 + 5H+ = 3Fe+3 + 2SO4-2 + 7H2O
+log_k           -5.390
+
+FeSO4:7H2O = Fe+2 + SO4-2 + 7H2O
+log_k           -2.209
+
+Fe3(OH)8 + 8H+ = 2Fe+3 + Fe+2 + 8H2O
+log_k           20.222
+
+FeAsO4:2H2O = Fe+3 + AsO4-3 + 2H2O
+log_k           -20.249
+
+FeSe2 + 2H+ + 2e- = Fe+2 + 2HSe-
+log_k           -18.580
+
+Fe2(SeO3)3 = 2Fe+3 + 3SeO3-2
+log_k           -35.430
+
+Fe(UO2)2(PO4)2 = Fe+2 + 2UO2+2 + 2PO4-3
+log_k           -44.485
+
+Fe+2 + 2X- = FeX2
+log_k           0.44
+
+Hfo_sOH + Fe+2 = Hfo_sOFe+ + H+
+log_k   0.7     # LFER using table 10.5
+
+Hfo_wOH + Fe+2 = Hfo_wOFe+ + H+
+log_k -2.5      # LFER using table 10.5
+
+Hfo_sOH + Fe+2 = Hfo_sOFe+ + H+
+log_k   -0.95
+
+Hfo_wOH + Fe+2 = Hfo_wOFe+ + H+
+log_k -2.98
+
+Hfo_wOH + Fe+2 + H2O = Hfo_wOFeOH + 2H+
+log_k -11.55
+----------------------------------------------------
+Find from: Tipp
+----------------------------------------------------
+
+
+Fe+2 = Fe+2
+log_k           0.0
+
+Fe+2 = Fe+3 + e-
+log_k           -13.020
+
+Fe+3 + H2O = FeOH+2 + H+
+log_k           -2.19
+
+Fe+2 + H2O = FeOH+ + H+
+log_k           -9.5
+
+Fe+2 + 3H2O = Fe(OH)3- + 3H+
+log_k           -31.0
+
+Fe+3 + SO4-2 = FeSO4+
+log_k           4.04
+
+Fe+3 + Cl- = FeCl+2
+log_k           1.48
+
+Fe+3 + 2Cl- = FeCl2+
+log_k           2.13
+
+Fe+3 + 3Cl- = FeCl3
+log_k           1.13
+
+Fe+2 + SO4-2 = FeSO4
+log_k           2.25
+
+Fe+3 + 2H2O = Fe(OH)2+ + 2H+
+log_k           -5.67
+
+Fe+3 + 3H2O = Fe(OH)3 + 3H+
+log_k           -12.56
+
+Fe+3 + 4H2O = Fe(OH)4- + 4H+
+log_k           -21.6
+
+Fe+2 + 2H2O = Fe(OH)2 + 2H+
+log_k           -20.57
+
+Fe+2 + H2PO4- = FeH2PO4+
+log_k           2.7
+
+Fe+2 + HPO4-2 = FeHPO4
+log_k           3.6
+
+Fe+3 + HPO4-2 = FeHPO4+
+log_k           5.43
+
+Fe+2 + HSO4- = FeHSO4+
+log_k           1.08
+
+Fe+3 + H2PO4- = FeH2PO4+2
+log_k           5.43
+
+Fe+3 + HSO4- = FeHSO4+2
+log_k           2.48
+
+Fe+3 + F- = FeF+2
+log_k           6.2
+
+Fe+3 + 2F- = FeF2+
+log_k           10.8
+
+Fe+3 + 3F- = FeF3
+log_k           14.0
+
+Fe+3 + 2SO4-2 = Fe(SO4)2-
+log_k           5.38
+
+2Fe+3 + 2H2O = Fe2(OH)2+4 + 2H+
+log_k           -2.95
+
+3Fe+3 + 4H2O = Fe3(OH)4+5 + 4H+
+log_k           -6.3
+
+Fe+2 + F- = FeF+
+log_k           1.0
+
+Fe+2 + 2HS- = Fe(HS)2
+log_k           8.95
+
+Fe+2 + 3HS- = Fe(HS)3-
+log_k           10.987
+
+Fe+3 + Fulvate-2 = FeFulvate+
+log_k           9.4
+
+Fe+3 + Humate-2 = FeHumate+
+log_k           9.4
+
+Fe+2 + Cl- = FeCl+
+log_k           0.14
+
+Fe+2 + HCO3- = FeHCO3+
+log_k           2.0
+
+Fe+2 + CO3-2 = FeCO3
+log_k           4.38
+
+FeCO3 = Fe+2 + CO3-2
+log_k           -10.45
+
+FeS + H+ = Fe+2 + HS-
+log_k           -4.648
+
+FeCO3 = Fe+2 + CO3-2
+log_k           -10.89
+
+Fe3(PO4)2:8H2O = 3Fe+2 + 2PO4-3 + 8H2O
+log_k           -36.0
+
+Fe3O4 + 8H+ = 2Fe+3 + Fe+2 + 4H2O
+log_k           3.737
+
+Fe2O3 + 6H+ = 2Fe+3 + 3H2O
+log_k           -4.008
+
+Fe2O3 + 6H+ = 2Fe+3 + 3H2O
+log_k           6.386
+
+FeOOH + 3H+ = Fe+3 + 2H2O
+log_k           -1.0
+
+Fe3Si2O5(OH)4 + 6H+ = 3Fe+2 + 2 H4SiO4 + H2O
+log_k           20.810
+
+Fe(OH)3 + 3H+ = Fe+3 + 3H2O
+log_k           4.891
+
+KFe3AlSi3O10(OH)2 + 10H2O = K+ + 3Fe+2 + Al(OH)4- + 3H4SiO4 + 6OH-
+log_k           -85.645
+
+FeS2 + 2H+ + 2e- = Fe+2 + 2HS-
+log_k           -18.479
+
+(HNaK)0.09Mg0.29Fe0.24Al1.57Si3.93O10(OH)2 + 10H2O = 0.09H+ + 0.09Na+ + 0.09K+ + 0.29Mg+2 + 0.24Fe+3 + 1.57Al(OH)4- + 3.93H4SiO4
+log_k           -34.913
+
+(HNaK)0.14Mg0.45Fe0.33Al1.47Si3.82O10(OH)2 + 9.16H2O + 0.84H+ = 0.14H+ + 0.14Na+ + 0.14K+ + 0.45Mg+2 + 0.33Fe+3 + 1.47Al(OH)4- + 3.82H4SiO4
+log_k           -29.688
+
+Fe3S4 + 4H+ = 2Fe+3 + Fe+2 + 4HS-
+log_k           -45.035
+
+FeS + H+ = Fe+2 + HS-
+log_k           -3.915
+
+(K0.77Na0.03H0.2)Fe3(SO4)2(OH)6 + 5.8H+ = 0.77K+ + 0.03Na+ + 3Fe+3 + 2SO4-2 + 6H2O
+log_k           -9.83   # WATEQ4F, Alpers and others, 1989
+
+FePO4:2H2O = Fe+3 + PO4-3 + 2H2O
+log_k           -26.4
+
+Fe(OH)2.7Cl0.3 + 2.7H+ = Fe+3 + 2.7H2O + 0.3 Cl-
+log_k           -3.040
+
+NaFe3(SO4)2(OH)6 + 6H+ = Na+ + 3Fe+3 + 2SO4-2 + 6H2O
+log_k           -5.280
+
+KFe3(SO4)2(OH)6 + 6H+ = K+ + 3Fe+3 + 2SO4-2 + 6H2O
+log_k           -9.21
+
+CuFeO2 + 4H+ = Cu+ + Fe+3 + 2H2O
+log_k           -8.920
+
+CuFe2O4 + 8H+ = Cu+2 + 2Fe+3 + 4H2O
+log_k           5.880
+
+CuFeS2 + 2H+ = Cu+2 + Fe+2 + 2HS-
+log_k           -35.270
+
+(H3O)Fe3(SO4)2(OH)6 + 5H+ = 3Fe+3 + 2SO4-2 + 7H2O
+log_k           -5.390
+
+FeSO4:7H2O = Fe+2 + SO4-2 + 7H2O
+log_k           -2.209
+
+Fe3(OH)8 + 8H+ = 2Fe+3 + Fe+2 + 8H2O
+log_k           20.222
+
+FeAsO4:2H2O = Fe+3 + AsO4-3 + 2H2O
+log_k           -20.249
+
+FeSe2 + 2H+ + 2e- = Fe+2 + 2HSe-
+log_k           -18.580
+
+Fe2(SeO3)3 = 2Fe+3 + 3SeO3-2
+log_k           -35.430
+
+Fe(UO2)2(PO4)2 = Fe+2 + 2UO2+2 + 2PO4-3
+log_k           -44.485
+
+Fe+2 + 2X- = FeX2
+log_k           0.44
+
+Hfo_sOH + Fe+2 = Hfo_sOFe+ + H+
+log_k   0.7     # LFER using table 10.5
+
+Hfo_wOH + Fe+2 = Hfo_wOFe+ + H+
+log_k -2.5      # LFER using table 10.5
+
+Hfo_sOH + Fe+2 = Hfo_sOFe+ + H+
+log_k   -0.95
+
+Hfo_wOH + Fe+2 = Hfo_wOFe+ + H+
+log_k -2.98
+
+Hfo_wOH + Fe+2 + H2O = Hfo_wOFeOH + 2H+
+log_k -11.55
+----------------------------------------------------
+Find from: iso
+----------------------------------------------------
+
+
+Fe+2 = Fe+2
+log_k           0.000
+
+Fe+2 + 2H2O = FeOH+ + H3O+
+log_k           -9.500
+
+Fe+2 + Cl- = FeCl+
+log_k           0.140
+
+Fe+2 + CO3-2 = FeCO3
+log_k           4.380
+
+Fe+2 + HCO3- = FeHCO3+
+log_k           2.0
+
+Fe+2 + SO4-2 = FeSO4
+log_k           2.250
+
+Fe+2 + HSO4- = FeHSO4+
+log_k           1.08
+
+Fe+2 + 2HS- = Fe(HS)2
+log_k           8.95
+
+Fe+2 + 3HS- = Fe(HS)3-
+log_k           10.987
+
+Fe+2 + HPO4-2 = FeHPO4
+log_k           3.6
+
+Fe+2 + H2PO4- = FeH2PO4+
+log_k           2.7
+
+Fe+2 + F- = FeF+
+log_k           1.000
+
+Fe+2 = Fe+3 + e-
+log_k           -13.020
+
+Fe+3 + 2H2O = FeOH+2 + H3O+
+log_k           -2.19
+
+Fe+3 + 4H2O = Fe(OH)2+ + 2 H3O+
+log_k           -5.67
+
+Fe+3 + 6 H2O = Fe(OH)3 + 3 H3O+
+log_k           -12.56
+
+Fe+3 + 8 H2O = Fe(OH)4- + 4 H3O+
+log_k           -21.6
+
+2 Fe+3 + 4 H2O = Fe2(OH)2+4 + 2 H3O+
+log_k           -2.95
+
+3 Fe+3 + 8 H2O = Fe3(OH)4+5 + 4 H3O+
+log_k           -6.3
+
+Fe+3 + Cl- = FeCl+2
+log_k           1.48
+
+Fe+3 + 2 Cl- = FeCl2+
+log_k           2.13
+
+Fe+3 + 3 Cl- = FeCl3
+log_k           1.13
+
+Fe+3 + SO4-2 = FeSO4+
+log_k           4.04
+
+Fe+3 + HSO4- = FeHSO4+2
+log_k           2.48
+
+Fe+3 + 2 SO4-2 = Fe(SO4)2-
+log_k           5.38
+
+Fe+3 + HPO4-2 = FeHPO4+
+log_k           5.43
+
+Fe+3 + H2PO4- = FeH2PO4+2
+log_k           5.43
+
+Fe+3 + F- = FeF+2
+log_k           6.2
+
+Fe+3 + 2 F- = FeF2+
+log_k           10.8
+
+Fe+3 + 3 F- = FeF3
+log_k           14.0
+
+FeCO3 = Fe+2 + CO3-2
+log_k           -10.890
+
+Fe2O3 + 6 H3O+ = 2 Fe+3 + 9 H2O
+log_k           -4.008
+
+FeOOH + 3 H3O+ = Fe+3 + 5 H2O
+log_k           -1.000
+
+Fe(OH)3 + 3 H3O+ = Fe+3 + 6 H2O
+log_k           4.891
+
+FeS2 + 2H3O+ + 2e- = Fe+2 + 2HS- + 2H2O
+log_k           -18.479
+
+FeS + H3O+ = Fe+2 + HS- + H2O
+log_k           -3.915
+
+FeS + H3O+ = Fe+2 + HS- + H2O
+log_k           -4.648
+
+Fe3(PO4)2:8H2O = 3 Fe+2 + 2 PO4-3 + 8 H2O
+log_k           -36.000
+
+FeSO4:7H2O = 7 H2O + Fe+2 + SO4-2
+log_k           -2.209
+
+KFe3(SO4)2(OH)6 + 6 H3O+ = 3 Fe+3 + 12 H2O + K+ + 2 SO4-2
+log_k           -9.210
+
+Fe+2 + 2X- = FeX2
+log_k   0.44
+
+Hfo_sOH + Fe+2 + H2O = Hfo_sOFe+ + H3O+
+log_k   0.7     # LFER using table 10.5
+
+Hfo_wOH + Fe+2 + H2O = Hfo_wOFe+ + H3O+
+log_k -2.5      # LFER using table 10.5
+
+Hfo_sOH + Fe+2 + H2O = Hfo_sOFe+ + H3O+
+log_k   -0.95
+
+Hfo_wOH + Fe+2 + H2O = Hfo_wOFe+ + H3O+
+log_k -2.98
+
+Hfo_wOH + Fe+2 + 3H2O = Hfo_wOFeOH + 2H3O+
+log_k -11.55
+----------------------------------------------------
+Find from: pitz
+----------------------------------------------------
+
+
+Fe+2 + 2X- = FeX2
+log_k   0.44
+
+Hfo_sOH + Fe+2 = Hfo_sOFe+ + H+
+log_k   0.7     # LFER using table 10.5
+
+Hfo_wOH + Fe+2 = Hfo_wOFe+ + H+
+log_k -2.5      # LFER using table 10.5
+
+Hfo_sOH + Fe+2 = Hfo_sOFe+ + H+
+log_k   -0.95
+
+Hfo_wOH + Fe+2 = Hfo_wOFe+ + H+
+log_k -2.98
+
+Hfo_wOH + Fe+2 + H2O = Hfo_wOFeOH + 2H+
+log_k -11.55
+----------------------------------------------------
+Find from: phre
+----------------------------------------------------
+
+
+Fe+2 + H2O = FeOH+ + H+
+-log_k	-9.5
+
+Fe+2 + 3H2O = Fe(OH)3- + 3H+
+-log_k -31.0
+
+Fe+2 + Cl- = FeCl+
+-log_k	0.14
+
+Fe+2 + CO3-2 = FeCO3
+-log_k	4.38
+
+Fe+2 + HCO3- = FeHCO3+
+-log_k	2.0
+
+Fe+2 + SO4-2 = FeSO4
+-log_k	2.25
+
+Fe+2 + HSO4- = FeHSO4+
+-log_k	1.08
+
+Fe+2 + 2HS- = Fe(HS)2
+-log_k	8.95
+
+Fe+2 + 3HS- = Fe(HS)3-
+-log_k	10.987
+
+Fe+2 + HPO4-2 = FeHPO4
+-log_k	3.6
+
+Fe+2 + H2PO4- = FeH2PO4+
+-log_k	2.7
+
+Fe+2 + F- = FeF+
+-log_k	1.0
+
+Fe+2 = Fe+3 + e-
+-log_k	-13.02
+
+Fe+3 + H2O = FeOH+2 + H+
+-log_k	-2.19
+
+Fe+3 + 2 H2O = Fe(OH)2+ + 2 H+
+-log_k	-5.67
+
+Fe+3 + 3 H2O = Fe(OH)3 + 3 H+
+-log_k	-12.56
+
+Fe+3 + 4 H2O = Fe(OH)4- + 4 H+
+-log_k	-21.6
+
+Fe+2 + 2H2O = Fe(OH)2 + 2H+
+-log_k  -20.57
+
+2 Fe+3 + 2 H2O = Fe2(OH)2+4 + 2 H+
+-log_k	-2.95
+
+3 Fe+3 + 4 H2O = Fe3(OH)4+5 + 4 H+
+-log_k	-6.3
+
+Fe+3 + Cl- = FeCl+2
+-log_k	1.48
+
+Fe+3 + 2 Cl- = FeCl2+
+-log_k	2.13
+
+Fe+3 + 3 Cl- = FeCl3
+-log_k	1.13
+
+Fe+3 + SO4-2 = FeSO4+
+-log_k	4.04
+
+Fe+3 + HSO4- = FeHSO4+2
+-log_k	2.48
+
+Fe+3 + 2 SO4-2 = Fe(SO4)2-
+-log_k	5.38
+
+Fe+3 + HPO4-2 = FeHPO4+
+-log_k	5.43
+
+Fe+3 + H2PO4- = FeH2PO4+2
+-log_k	5.43
+
+Fe+3 + F- = FeF+2
+-log_k	6.2
+
+Fe+3 + 2 F- = FeF2+
+-log_k	10.8
+
+Fe+3 + 3 F- = FeF3
+-log_k	14.0
+
+FeCO3 = Fe+2 + CO3-2
+-log_k	-10.89
+
+Fe2O3 + 6 H+ = 2 Fe+3 + 3 H2O
+-log_k	-4.008
+
+FeOOH + 3 H+ = Fe+3 + 2 H2O
+-log_k	-1.0
+
+Fe(OH)3 + 3 H+ = Fe+3 + 3 H2O
+-log_k	4.891
+
+FeS2 + 2 H+ + 2 e- = Fe+2 + 2 HS-
+-log_k	-18.479
+
+FeS + H+ = Fe+2 + HS-
+-log_k	-3.915
+
+FeS + H+ = Fe+2 + HS-
+-log_k	-4.648
+
+Fe3(PO4)2:8H2O = 3 Fe+2 + 2 PO4-3 + 8 H2O
+-log_k	-36.0
+
+FeSO4:7H2O = 7 H2O + Fe+2 + SO4-2
+-log_k	-2.209
+
+KFe3(SO4)2(OH)6 + 6 H+ = 3 Fe+3 + 6 H2O + K+ + 2 SO4-2
+-log_k	-9.21
+
+Fe+2 + 2X- = FeX2
+-log_k	0.44
+
+Hfo_sOH + Fe+2 = Hfo_sOFe+ + H+
+-log_k	-0.95
+
+Hfo_wOH + Fe+2 = Hfo_wOFe+ + H+
+-log_k -2.98
+
+Hfo_wOH + Fe+2 + H2O = Hfo_wOFeOH + 2H+
+-log_k -11.55
+----------------------------------------------------
+Find from: min
+----------------------------------------------------
+
+
+Fe+3 = Fe+3
+log_k   0
+
+Fe+3 + e- = Fe+2
+log_k   13.032
+
+Fe+2 + H2O = FeOH+ + H+
+log_k   -9.5
+
+Fe+2 + 3H2O = Fe(OH)3- + 3H+
+log_k   -31
+
+Fe+2 + SO4-2 = FeSO4
+log_k   2.25
+
+Fe+2 + PO4-3 + 2H+ = FeH2PO4+
+log_k   22.253
+
+Fe+2 + 2H2O = Fe(OH)2 + 2H+
+log_k   -20.57
+
+Fe+2 + PO4-3 + H+ = FeHPO4
+log_k   15.95
+
+Fe+2 + 2HS- = Fe(HS)2
+log_k   8.95
+
+Fe+2 + 3HS- = Fe(HS)3-
+log_k   10.987
+
+Fe+3 + H2O = FeOH+2 + H+
+log_k   -2.19
+
+Fe+3 + PO4-3 + H+ = FeHPO4+
+log_k   17.78
+
+Fe+3 + SO4-2 = FeSO4+
+log_k   3.92
+
+Fe+3 + Cl- = FeCl+2
+log_k   1.48
+
+Fe+3 + 2Cl- = FeCl2+
+log_k   2.13
+
+Fe+3 + 3Cl- = FeCl3
+log_k   1.13
+
+Fe+3 + 2H2O = Fe(OH)2+ + 2H+
+log_k   -5.67
+
+Fe+3 + 3H2O = Fe(OH)3 + 3H+
+log_k   -13.6
+
+Fe+3 + 4H2O = Fe(OH)4- + 4H+
+log_k   -21.6
+
+Fe+3 + PO4-3 + 2H+ = FeH2PO4+2
+log_k   24.98
+
+Fe+3 + F- = FeF+2
+log_k   6.199
+
+Fe+3 + 2F- = FeF2+
+log_k   10.8
+
+Fe+3 + 3F- = FeF3
+log_k   14
+
+Fe+3 + 2SO4-2 = Fe(SO4)2-
+log_k   5.42
+
+2Fe+3 + 2H2O = Fe2(OH)2+4 + 2H+
+log_k   -2.95
+
+3Fe+3 + 4H2O = Fe3(OH)4+5 + 4H+
+log_k   -6.3
+
+HSeO3- + Fe+3 = FeHSeO3+2
+log_k   3.61
+
+Ba+2 + Fe+3 + 6Cyanide- = BaFe(Cyanide)6-
+log_k   55.4356
+
+Ca+2 + H+ + Fe+2 + 6Cyanide- + e- = CaHFe(Cyanide)6-2
+log_k   52.7097
+
+K+ + Fe+2 + 6Cyanide- = KFe(Cyanide)6-3
+log_k   48.1204
+
+2K+ + Fe+2 + 6Cyanide- = K2Fe(Cyanide)6-2
+log_k   48.978
+
+K+ + H+ + Fe+2 + 6Cyanide- = KHFe(Cyanide)6-2
+log_k   51.4702
+
+2Li+ + Fe+2 + 6Cyanide- = Li2Fe(Cyanide)6-2
+log_k   48.5338
+
+Li+ + H+ + Fe+2 + 6Cyanide- = LiHFe(Cyanide)6-2
+log_k   51.2188
+
+NH4+ + Fe+2 + 6Cyanide- = NH4Fe(Cyanide)6-3
+log_k   48.0684
+
+NH4+ + H+ + Fe+2 + 6Cyanide- = NH5Fe(Cyanide)6-2
+log_k   51.4035
+
+Na+ + Fe+2 + 6Cyanide- = NaFe(Cyanide)6-3
+log_k   47.9885
+
+2Na+ + Fe+2 + 6Cyanide- = Na2Fe(Cyanide)6-2
+log_k   48.7435
+
+Na+ + H+ + Fe+2 + 6Cyanide- = NaHFe(Cyanide)6-2
+log_k   51.4335
+
+2NH4+ + Fe+2 + 6Cyanide- = (NH4)2FeCyanide6-2
+log_k   48.8666
+
+6Cyanide- + 2K+ + 2H+ + Fe+2 = K2H2Fe(Cyanide)6
+log_k   52.3058
+
+6Cyanide- + Ca+2 + Fe+3 = CaFe(Cyanide)6-
+log_k   55.473
+
+6Cyanide- + Ca+2 + Fe+2 = CaFe(Cyanide)6-2
+log_k   49.6898
+
+6Cyanide- + 2Ca+2 + Fe+2 = Ca2Fe(Cyanide)6
+log_k   50.9952
+
+6Cyanide- + Fe+2 = Fe(Cyanide)6-4
+log_k   45.6063
+
+6Cyanide- + Fe+2 + H+ = HFe(Cyanide)6-3
+log_k   49.9969
+
+6Cyanide- + 2H+ + Fe+2 = H2Fe(Cyanide)6-2
+log_k   52.445
+
+6Cyanide- + Fe+3 = Fe(Cyanide)6-3
+log_k   52.6283
+
+6Cyanide- + 3K+ + H+ + Fe+2 = K3HFe(Cyanide)6
+log_k   50.2241
+
+6Cyanide- + Li+ + Fe+2 = LiFe(Cyanide)6-3
+log_k   47.6858
+
+6Cyanide- + Mg+2 + Fe+3 = MgFe(Cyanide)6-
+log_k   55.3916
+
+6Cyanide- + Mg+2 + Fe+2 = MgFe(Cyanide)6-2
+log_k   49.4251
+
+Sr+2 + Fe+3 + 6Cyanide- = SrFe(Cyanide)6-
+log_k   55.6181
+
+6Cyanide- + Tl+ + Fe+2 = TlFe(Cyanide)6-3
+log_k   48.7508
+
+6Cyanide- + 2Fe+3 = Fe2(Cyanide)6
+log_k   56.9822
+
+6Cyanide- + Fe+2 + Ba+2 = BaFe(Cyanide)6-2
+log_k   49.4032
+
+Propanoate- + Fe+3 = FePropanoate+2
+log_k   3.4
+
+Isobutyrate- + Fe+3 = FeIsobutyrate+2
+log_k   3.6
+
+Butanoate- + Fe+3 = FeButanoate+2
+log_k   5.56
+
+Isovalerate- + Fe+3 = FeIsovalerate+2
+log_k   5.58
+
+Valerate- + Fe+3 = FeValerate+2
+log_k   5.58
+
+Fe+2 + Citrate-3 = FeCitrate-
+log_k   5.7
+
+Fe+2 + Citrate-3 + H+ = FeCitrateH
+log_k   3.5
+
+Fe+3 + Citrate-3 = FeCitrate
+log_k   12.55
+
+Fe+3 + Citrate-3 + H+ = FeCitrateH+
+log_k   19.8
+
+Fe+2 + Ethylenediamine = FeEthylenediamine+2
+log_k   4.36
+
+Fe+2 + 2Ethylenediamine = FeEthylenediamine2+2
+log_k   7.65
+
+Fe+2 + 3Ethylenediamine = FeEthylenediamine3+2
+log_k   9.68
+
+Fe+2 + Acetate- = FeAcetate+
+log_k   1.4
+
+Fe+3 + Acetate- = FeAcetate+2
+log_k   3.21
+
+Fe+3 + 2Acetate- = FeAcetate2+
+log_k   6.5
+
+Fe+3 + 3Acetate- = FeAcetate3
+log_k   8.3
+
+Fe+3 + Edta-4 = FeEdta-
+log_k   27.7
+
+Fe+2 + Edta-4 = FeEdta-2
+log_k   16.1
+
+Fe+3 + Edta-4 + H+ = FeHEdta
+log_k   29.2
+
+Fe+2 + Edta-4 + H+ = FeHEdta-
+log_k   19.3
+
+Fe+3 + Edta-4 + H2O = FeOHEdta-2 + H+
+log_k   19.8
+
+Fe+3 + Edta-4 + 2H2O = Fe(OH)2Edta-3 + 2H+
+log_k   9.7
+
+Fe+2 + Edta-4 + H2O = FeOHEdta-3 + H+
+log_k   6.4
+
+Fe+2 + Edta-4 + 2H2O = Fe(OH)2Edta-4 + 2H+
+log_k   -4.3
+
+Fe(UO2)2(PO4)2 = 2UO2+2 + Fe+2 + 2PO4-3
+log_k   -44.485
+
+Fe(OH)3 + 3H+ = Fe+3 + 3H2O
+log_k   4.891
+
+Fe3(OH)8 + 8H+ = 2Fe+3 + Fe+2 + 8H2O
+log_k   20.222
+
+Fe(OH)2.7Cl0.3 + 2.7H+ = Fe+3 + 2.7H2O + 0.3Cl-
+log_k   -3.04
+
+FeS + H+ = Fe+2 + HS-
+log_k   -3.915
+
+Fe2(SO4)3 = 2Fe+3 + 3SO4-2
+log_k   3.58
+
+FeOOH + 3H+ = Fe+3 + 2H2O
+log_k   0.5
+
+Fe3Si2O5(OH)4 + 6H+ = 3Fe+2 + 2H4SiO4 + H2O
+log_k   20.81
+
+Fe3S4 + 4H+ = 2Fe+3 + Fe+2 + 4HS-
+log_k   -45.035
+
+Fe2O3 + 6H+ = 2Fe+3 + 3H2O
+log_k   -4.008
+
+NaFe3(SO4)2(OH)6 + 6H+ = Na+ + 3Fe+3 + 2SO4-2 + 6H2O
+log_k   -11.2
+
+KFe3(SO4)2(OH)6 + 6H+ = K+ + 3Fe+3 + 2SO4-2 + 6H2O
+log_k   -14.8
+
+(H3O)Fe3(SO4)2(OH)6 + 5H+ = 3Fe+3 + 2SO4-2 + 7H2O
+log_k   -12.1
+
+FeS + H+ = Fe+2 + HS-
+log_k   -4.648
+
+Fe2O3 + 6H+ = 2Fe+3 + 3H2O
+log_k   6.386
+
+Fe3O4 + 8H+ = 2Fe+3 + Fe+2 + 4H2O
+log_k   3.737
+
+FeSO4:7H2O = Fe+2 + SO4-2 + 7H2O
+log_k   -2.47
+
+FeS2 + 2H+ + 2e- = Fe+2 + 2HS-
+log_k   -18.479
+
+FeCO3 = Fe+2 + CO3-2
+log_k   -10.55
+
+FePO4:2H2O = Fe+3 + PO4-3 + 2H2O
+log_k   -26.4
+
+Fe3(PO4)2:8H2O = 3Fe+2 + 2PO4-3 + 8H2O
+log_k   -36
+
+CuFeO2 + 4H+ = Cu+ + Fe+3 + 2H2O
+log_k   -8.92
+
+CuFe2O4 + 8H+ = Cu+2 + 2Fe+3 + 4H2O
+log_k   5.88
+
+CuFeS2 + 2H+ = Cu+2 + Fe+2 + 2HS-
+log_k   -35.27
+
+KFe3AlSi3O10(OH)2 + 10H+ = K+ + 3Fe+2 + Al+3 + 3H4SiO4
+log_k   23.29
+
+FeAsO4:2H2O + 3H+ = Fe+3 + H3AsO4 + 2H2O
+log_k   0.4
+
+Fe0.5VO3 + 2H+ = 0.5Fe+2 + VO2+ + H2O
+log_k   -1.86
+
+WUSTITE + 2H+ = 0.947Fe+2 + H2O
+log_k   11.687
+
+FeAl2O4 + 8H+ = Fe+2 + 2Al+3 + 4H2O
+log_k   27.162
+
+MgFe2O4 + 8H+ = Mg+2 + 2Fe+3 + 4H2O
+log_k   16.765
+
+FeOOH + 3H+ = Fe+3 + 2H2O
+log_k   1.371
+
+Fe2Al.33Si3.67O10(OH)2Na0.33 + 7.32H+ + 2.68H2O = 0.33Al+3 + 2Fe+3 + 0.33Na+ + 3.67H4SiO4
+log_k   -14.504
+
+Fe2Al.33Si3.67O10(OH)2K0.33 + 7.32H+ + 2.68H2O = 0.33Al+3 + 2Fe+3 + 0.33K+ + 3.67H4SiO4
+log_k   -15.549
+
+Fe2Al.33Si3.67O10(OH)2Ca0.165 + 7.32H+ + 2.68H2O = 0.33Al+3 + 2Fe+3 + 0.165Ca+2 + 3.67H4SiO4
+log_k   -20.889
+
+Fe2Al.33Si3.67O10(OH)2Mg0.165 + 7.32H+ + 2.68H2O = 0.33Al+3 + 2Fe+3 + 0.165Mg+2 + 3.67H4SiO4
+log_k   -20.589
+
+Mg0.485Fe.22Al1.71Si3.81O10(OH)2 + 6.76H+ + 3.24H2O = 3.81H4SiO4 + 0.485Mg+2 + 0.22Fe+3 + 1.71Al+3
+log_k   2.67
+
+FeSe2 + 2H+ + 2e- = 2HSe- + Fe+2
+log_k   -18.5959
+
+FeSe + H+ = HSe- + Fe+2
+log_k   -7.1466
+
+Fe2(SeO3)3:2H2O + 3H+ = 3HSeO3- + 2Fe+3 + 2H2O
+log_k   -20.6262
+
+Fe2(OH)4SeO3 + 5H+ = HSeO3- + 2Fe+3 + 4H2O
+log_k   1.5539
+
+FeCr2O4 + 4H+ = 2Cr(OH)2+ + Fe+2
+log_k   -0.9016
+
+Ag4FeCyanide6:H2O = 6Cyanide- + 4Ag+ + Fe+2 + H2O
+log_k   -89.6909
+
+Cd2FeCyanide6:7H2O = 6Cyanide- + 2Cd+2 + Fe+2 + 7H2O
+log_k   -62.9824
+
+Cu2FeCyanide6 = 6Cyanide- + 2Cu+2 + Fe+2
+log_k   -61.4168
+
+K12Ni8(FeCyanide6)7 = 42Cyanide- + 12K+ + 8Ni+2 + 7Fe+2
+log_k   -431.09
+
+K2CdFeCyanide6 = 6Cyanide- + 2K+ + Cd+2 + Fe+2
+log_k   -63.0279
+
+K4Ni4(FeCyanide6)3 = 18Cyanide- + 4K+ + 4Ni+2 + 3Fe+2
+log_k   -183.547
+
+K4FeCyanide6 = 6Cyanide- + 4K+ + Fe+2
+log_k   -48.8241
+
+K2Mn3(FeCyanide6)2 = 12Cyanide- + 2K+ + 3Mn+2 + 2Fe+2
+log_k   -121.001
+
+K2Ni3(FeCyanide6)2 = 12Cyanide- + 2K+ + 3Ni+2 + 2Fe+2
+log_k   -123.127
+
+K4FeCyanide6:3H2O = 6Cyanide- + 4K+ + Fe+2 + 3H2O
+log_k   -49.5424
+
+K12Cd8(FeCyanide6)7 = 42Cyanide- + 12K+ + 8Cd+2 + 7Fe+2
+log_k   -441.985
+
+KZn1.5FeCyanide6 = 6Cyanide- + K+ + 1.5Zn+2 + Fe+2
+log_k   -66.8086
+
+K3FeCyanide6 = 6Cyanide- + 3K+ + Fe+3
+log_k   -54.644
+
+K8Mn6(FeCyanide6)5 = 30Cyanide- + 8K+ + 6Mn+2 + 5Fe+2
+log_k   -293.685
+
+K2Cu2FeCyanide6 = 6Cyanide- + 2K+ + 2Cu+ + Fe+2
+log_k   -72.5142
+
+Mn2FeCyanide6 = 6Cyanide- + 2Mn+2 + Fe+2
+log_k   -59.0272
+
+Pb2FeCyanide6:3H2O = 6Cyanide- + 2Pb+2 + Fe+2 + 3H2O
+log_k   -63.6011
+
+Tl4FeCyanide6:2H2O = 6Cyanide- + 4Tl+ + Fe+2 + 2H2O
+log_k   -56.9162
+
+Zn2FeCyanide6:2H2O = 6Cyanide- + 2Zn+2 + Fe+2 + 2H2O
+log_k   -61.2321
+
+Ag4Fe(Cyanide)6 = 6Cyanide- + 4Ag+ + Fe+2
+log_k   -193.914
+
+Cd2Fe(Cyanide)6 = 6Cyanide- + 2Cd+2 + Fe+2
+log_k   -28.2243
+
+Pb2Fe(Cyanide)6 = 6Cyanide- + 2Pb+2 + Fe+2
+log_k   -27.5895
+
+Zn2Fe(Cyanide)6 = 6Cyanide- + 2Zn+2 + Fe+2
+log_k   -29.9263
+----------------------------------------------------
+Find from: si
+----------------------------------------------------
+
+
+1.000Fe+2     = Fe+2
+log_k     0.000
+
+1.000Fe+2     - 0.500H2O     + 1.000H+     + 0.250O2     = Fe+3
+log_k     8.485
+
+1.000Fe+3     + 1.000B(OH)4-     = Fe(B(OH)4)+2
+log_k     8.580     #80BAS
+
+1.000Fe+3     + 2.000B(OH)4-     = Fe(B(OH)4)2+
+log_k    15.540     #80BAS
+
+1.000Fe+2     + 1.000CO3-2     = Fe(CO3)
+log_k     5.690     #99CHI3
+
+1.000Fe+2     + 2.000CO3-2     = Fe(CO3)2-2
+log_k     7.450     #98KIN in 99CHI3
+
+1.000Fe+3     + 3.000CO3-2     = Fe(CO3)3-3
+log_k    24.240     #05GRI
+
+1.000Fe+3     + 1.000Cit-3     = Fe(Cit)
+log_k    12.650     #95AKR/BOU
+
+1.000Fe+3     - 1.000H+     + 1.000Cit-3     + 1.000H2O     = Fe(Cit)(OH)-
+log_k    10.330     #95AKR/BOU
+
+1.000Fe+2     + 1.000Cit-3     = Fe(Cit)-
+log_k     6.100     #95AKR/BOU
+
+1.000Fe+3     - 2.000H+     + 2.000Cit-3     + 2.000H2O     = Fe(Cit)2(OH)2-5
+log_k     3.440     #95AKR/BOU
+
+1.000Fe+3     + 2.000Cit-3     = Fe(Cit)2-3
+log_k    18.150     #95AKR/BOU
+
+1.000Fe+3     + 6.000Cn-     = Fe(Cn)6-3
+log_k    43.600     #88CHA/NEW
+
+1.000Fe+2     + 6.000Cn-     = Fe(Cn)6-4
+log_k    35.400     #88CHA/NEW
+
+1.000Fe+3     + 1.000Edta-4     = Fe(Edta)-
+log_k    27.700     #95AKR/BOU
+
+1.000Fe+2     + 1.000Edta-4     = Fe(Edta)-2
+log_k    16.020     #95AKR/BOU
+
+1.000Fe+2     + 2.000H+     + 1.000Cit-3     = Fe(H2Cit)+
+log_k    24.700     #95AKR/BOU
+
+1.000Fe+3     + 2.000H+     + 1.000Cit-3     = Fe(H2Cit)+2
+log_k    30.400     #95AKR/BOU
+
+1.000Fe+2     + 1.000H2(PO4)-     = Fe(H2PO4)+
+log_k     2.690     #USGS original
+
+1.000Fe+3     + 1.000H2(PO4)-     = Fe(H2PO4)+2
+log_k     5.420     #USGS original
+
+1.000Fe+3     - 1.000H+     + 1.000H4(SiO4)     = Fe(H3SiO4)+2
+log_k     0.360     #88CHA/NEW
+
+1.000Fe+2     + 1.000H+     + 1.000Cit-3     = Fe(HCit)
+log_k    10.020     #95AKR/BOU
+
+1.000Fe+3     + 1.000H+     + 2.000Cit-3     = Fe(HCit)(Cit)-2
+log_k    19.300     #95AKR/BOU
+
+1.000Fe+3     + 1.000H+     + 1.000Cit-3     = Fe(HCit)+
+log_k    13.560     #95AKR/BOU
+
+1.000Fe+3     + 2.000H+     + 2.000Cit-3     = Fe(HCit)2-
+log_k    24.920     #95AKR/BOU
+
+1.000Fe+3     + 1.000H+     + 1.000Edta-4     = Fe(HEdta)
+log_k    29.200     #95AKR/BOU
+
+1.000Fe+2     + 1.000H+     + 1.000Edta-4     = Fe(HEdta)-
+log_k    18.300     #95AKR/BOU
+
+1.000Fe+2     + 1.000H+     + 1.000Nta-3     = Fe(HNta)
+log_k    12.300     #95AKR/BOU
+
+1.000Fe+3     + 1.000H+     + 1.000Ox-2     = Fe(HOx)+2
+log_k     9.300     #95AKR/BOU
+
+1.000Fe+2     - 1.000H+     + 1.000H2(PO4)-     = Fe(HPO4)
+log_k    -3.610     #USGS original
+
+1.000Fe+3     - 1.000H+     + 1.000H2(PO4)-     = Fe(HPO4)+
+log_k     1.630     #96BOU4
+
+1.000Fe+2     + 1.000HS-     = Fe(HS)+
+log_k     4.340     #04CHI
+
+1.000Fe+2     + 2.000HS-     = Fe(HS)2
+log_k     6.450     #04CHI
+
+1.000Fe+2     + 1.000H+     + 1.000SO4-2     = Fe(HSO4)+
+log_k     3.070     #NAGRA, TR 91-18; F.J. PEARSON, U. BERNER, W. HUMMEL; Nagra thermochemical data base, supplemental data 05/92 (provient de la base 0391 MINEQL- PSY)
+
+1.000Fe+3     + 1.000H+     + 1.000SeO3-2     = Fe(HSeO3)+2
+log_k    12.350     #01SEB/POT2
+
+1.000Fe+2     + 1.000NH3     = Fe(NH3)+2
+log_k     1.300     #82SCH
+
+1.000Fe+2     + 2.000NH3     = Fe(NH3)2+2
+log_k     2.100     #82SCH
+
+1.000Fe+2     + 4.000NH3     = Fe(NH3)4+2
+log_k     3.600     #82SCH
+
+1.000Fe+3     + 1.000NO3-     = Fe(NO3)+2
+log_k     0.950     #HATCHES 8.0 1996
+
+1.000Fe+3     + 1.000Nta-3     = Fe(Nta)
+log_k    18.600     #95AKR/BOU
+
+1.000Fe+2     + 1.000Nta-3     = Fe(Nta)-
+log_k    10.600     #95AKR/BOU
+
+1.000Fe+3     + 2.000Nta-3     = Fe(Nta)2-3
+log_k    27.000     #95AKR/BOU
+
+1.000Fe+2     + 2.000Nta-3     = Fe(Nta)2-4
+log_k    13.500     #95AKR/BOU
+
+1.000Fe+2     - 1.000H+     + 1.000Cit-3     + 1.000H2O     = Fe(OH)(Cit)-2
+log_k     1.500     #95AKR/BOU
+
+1.000Fe+3     - 1.000H+     + 1.000Edta-4     + 1.000H2O     = Fe(OH)(Edta)-2
+log_k    20.840     #95AKR/BOU
+
+1.000Fe+2     - 1.000H+     + 1.000Edta-4     + 1.000H2O     = Fe(OH)(Edta)-3
+log_k     6.400     #95AKR/BOU
+
+1.000Fe+3     - 1.000H+     + 1.000Nta-3     + 1.000H2O     = Fe(OH)(Nta)-
+log_k    14.600     #95AKR/BOU
+
+1.000Fe+2     - 1.000H+     + 1.000Nta-3     + 1.000H2O     = Fe(OH)(Nta)-2
+log_k    -0.120     #95AKR/BOU
+
+1.000Fe+2     - 1.000H+     + 1.000H2O     = Fe(OH)+
+log_k    -9.500     #76BAE/MES in 99CHI3
+
+1.000Fe+3     - 1.000H+     + 1.000H2O     = Fe(OH)+2
+log_k    -2.190     #76BAE/MES in 98CHI
+
+1.000Fe+2     - 2.000H+     + 2.000H2O     = Fe(OH)2
+log_k   -20.600     #76BAE/MES in 99CHI3
+
+1.000Fe+3     - 2.000H+     + 1.000Cit-3     + 2.000H2O     = Fe(OH)2(Cit)-2
+log_k     2.900     #95AKR/BOU
+
+1.000Fe+3     - 2.000H+     + 1.000Edta-4     + 2.000H2O     = Fe(OH)2(Edta)-3
+log_k    10.060     #95AKR/BOU
+
+1.000Fe+2     - 2.000H+     + 1.000Edta-4     + 2.000H2O     = Fe(OH)2(Edta)-4
+log_k    -4.400     #95AKR/BOU
+
+1.000Fe+3     - 2.000H+     + 1.000Nta-3     + 2.000H2O     = Fe(OH)2(Nta)-2
+log_k     6.000     #95AKR/BOU
+
+1.000Fe+3     - 2.000H+     + 2.000H2O     = Fe(OH)2+
+log_k    -5.670     #76BAE/MES in 98CHI
+
+1.000Fe+3     - 3.000H+     + 3.000H2O     = Fe(OH)3
+log_k   -12.560     #91PEA/BER in 98CHI
+
+1.000Fe+3     - 3.000H+     + 1.000Edta-4     + 3.000H2O     = Fe(OH)3(Edta)-4
+log_k     8.300     #95AKR/BOU
+
+1.000Fe+2     - 3.000H+     + 3.000H2O     = Fe(OH)3-
+log_k   -31.900     #76BAE/MES in 99CHI3
+
+1.000Fe+3     - 4.000H+     + 4.000H2O     = Fe(OH)4-
+log_k   -21.600     #76BAE/MES in 98CHI
+
+1.000Fe+2     - 4.000H+     + 4.000H2O     = Fe(OH)4-2
+log_k   -46.000     #76BAE/MES in 99CHI3
+
+1.000Fe+2     + 1.000Ox-2     = Fe(Ox)
+log_k     4.100     #95AKR/BOU
+
+1.000Fe+3     + 1.000Ox-2     = Fe(Ox)+
+log_k     9.530     #95AKR/BOU
+
+1.000Fe+3     + 2.000Ox-2     = Fe(Ox)2-
+log_k    15.750     #95AKR/BOU
+
+1.000Fe+2     + 2.000Ox-2     = Fe(Ox)2-2
+log_k     6.200     #95AKR/BOU
+
+1.000Fe+3     + 3.000Ox-2     = Fe(Ox)3-3
+log_k    20.200     #95AKR/BOU
+
+1.000Fe+2     + 3.000Ox-2     = Fe(Ox)3-4
+log_k     5.220     #95AKR/BOU
+
+1.000Fe+2     + 1.000SO4-2     = Fe(SO4)
+log_k     2.200     #91PEA/BER in 98CHI
+
+1.000Fe+3     + 1.000SO4-2     = Fe(SO4)+
+log_k     4.100     #95BOU in 98CHI
+
+1.000Fe+3     + 2.000SO4-2     = Fe(SO4)2-
+log_k     5.400     #91PEA/BER in 98CHI
+
+1.000Fe+3     + 1.000SeO3-2     = Fe(SeO3)+
+log_k    11.150     #05OLI/NOL
+
+1.000Fe+2     + 1.000SeO4-2     = Fe(SeO4)
+log_k     2.710     #01SEB/POT2
+
+2.000Fe+3     - 2.000H+     + 2.000Cit-3     + 2.000H2O     = Fe2(Cit)2(OH)2-2
+log_k    45.000     #95AKR/BOU
+
+2.000Fe+3     - 2.000H+     + 2.000Edta-4     + 2.000H2O     = Fe2(OH)2(Edta)2-4
+log_k    68.000     #95AKR/BOU
+
+2.000Fe+3     - 2.000H+     + 2.000H2O     = Fe2(OH)2+4
+log_k    -2.950     #91PEA/BER in 98CHI
+
+3.000Fe+3     - 4.000H+     + 4.000H2O     = Fe3(OH)4+5
+log_k    -6.300     #76BAE/MES in 98CHI
+
+1.000Fe+3     + 1.000Br-     = FeBr+2
+log_k     0.700     #88CHA/NEW
+
+1.000Fe+3     + 2.000Br-     = FeBr2+
+log_k     0.900     #96FAL/REA
+
+1.000Fe+3     - 1.000H+     + 1.000CO3-2     + 1.000H2O     = FeCO3OH
+log_k    10.760     #05GRI
+
+1.000Fe+2     - 1.000H+     + 1.000CO3-2     + 1.000H2O     = FeCO3OH-
+log_k    -4.030     #98KIN in 99CHI3
+
+1.000Fe+2     + 1.000Cl-     = FeCl+
+log_k     0.140     #91PEA/BER in 98CHI
+
+1.000Fe+3     + 1.000Cl-     = FeCl+2
+log_k     1.400     #95BOU in 98CHI
+
+1.000Fe+2     + 2.000Cl-     = FeCl2
+log_k    -0.520     #95CHI
+
+1.000Fe+3     + 2.000Cl-     = FeCl2+
+log_k     2.100     #95BOU in 98CHI
+
+1.000Fe+3     + 3.000Cl-     = FeCl3
+log_k     1.130     #90NOR/PLU
+
+1.000Fe+2     + 3.000Cl-     = FeCl3-
+log_k     1.020     #95CHI
+
+1.000Fe+3     + 4.000Cl-     = FeCl4-
+log_k    -0.790     #88CHA/NEW
+
+1.000Fe+3     + 1.000CrO4-2     = FeCrO4+
+log_k     7.800     #96BAR/PAL
+
+1.000Fe+2     + 1.000F-     = FeF+
+log_k     1.000     #96FAL/REA
+
+1.000Fe+3     + 1.000F-     = FeF+2
+log_k     6.130     #92PEA/BER in 98CHI
+
+1.000Fe+3     + 2.000F-     = FeF2+
+log_k    10.800     #92PEA/BER in 98CHI
+
+1.000Fe+3     + 3.000F-     = FeF3
+log_k    14.000     #92PEA/BER in 98CHI
+
+1.000Fe+3     + 2.000H+     + 1.000Pyrophos-4     = FeH2Pyrophos+
+log_k    26.000     #88CHA/NEW
+
+1.000Fe+2     + 1.000H+     + 1.000CO3-2     = FeHCO3+
+log_k    11.770     #95CHI
+
+1.000Fe+3     + 1.000H+     + 1.000SO4-2     = FeHSO4+2
+log_k     4.470     #90NOR/PLU
+
+1.000Fe+3     + 1.000I-     = FeI+2
+log_k     2.100     #96BOU2
+
+1.000Fe+3     + 1.000S2O3-2     = FeS2O3+
+log_k     3.900     #82SCH
+
+1.000Fe+3     + 1.000Scn-     = FeScn+2
+log_k     3.100     #88CHA/NEW
+
+NaFeSi2O6     = 1.000Na+     + 1.000Fe+3     - 4.000H+     + 2.000H4(SiO4)     - 2.000H2O
+log_k     0.920
+
+Fe4Al4Si2O10(OH)8     = 4.000Fe+2     + 4.000Al+3     - 20.000H+     + 2.000H4(SiO4)     + 10.000H2O
+log_k    57.040
+
+Ca2Fe(PO4)2:4H2O     = 2.000Ca+2     + 1.000Fe+2     - 4.000H+     + 2.000H2(PO4)-     + 4.000H2O
+log_k     5.020     #96FAL/REA
+
+KFe3Si3AlO10(OH)2     = 1.000K+     + 3.000Fe+2     + 1.000Al+3     - 10.000H+     + 3.000H4(SiO4)
+log_k    32.770
+
+Fe(UO2)2(PO4)2     = 1.000Fe+2     + 2.000UO2+2     - 4.000H+     + 2.000H2(PO4)-
+log_k    -1.070     #65MUT/HIR
+
+Ca0.185K0.104(Si3.574Al0.426)(Al1.812Mg0.090Fe0.112)O10(OH)2     = 0.185Ca+2     + 0.090Mg+2     + 0.104K+     + 0.112Fe+3     + 2.238Al+3     - 7.704H+     + 3.574H4(SiO4)     - 2.296H2O
+log_k     7.590
+
+Ca0.185K0.104Si3.574Al2.238Mg0.090Fe0.112O10(OH)2:4.576H2O     = 0.185Ca+2     + 0.090Mg+2     + 0.104K+     + 0.112Fe+3     + 2.238Al+3     - 7.704H+     + 3.574H4(SiO4)     + 2.280H2O
+log_k     4.290
+
+(Fe2Al)(SiAl)O5(OH)4     = 2.000Al+3     + 1.000H4(SiO4)     + 2.000Fe+2     + 5.000H2O     - 10.000H+
+log_k    34.560
+
+(Fe2.34Fe0.33Al0.33)(Si1.34Al0.66)O5(OH)4     = 0.330Fe+3     + 2.340Fe+2     + 0.990Al+3     - 8.640H+     + 1.340H4(SiO4)     + 3.640H2O
+log_k    28.800
+
+(Si1.332Al0.668)(Al0.976Fe0.182Fe1.44Mg0.157)O5(OH)4     = 0.157Mg+2     + 0.182Fe+3     + 1.644Al+3     + 1.332H4(SiO4)     + 1.440Fe+2     + 3.672H2O     - 8.672H+
+log_k    27.930
+
+Fe0.608Fe0.936Mg0.37Al1.052Si1.52O5(OH)4     = 0.370Mg+2     + 0.936Fe+3     + 0.608Fe+2     + 1.052Al+3     - 7.920H+     + 1.520H4(SiO4)     + 2.920H2O
+log_k     1.030
+
+Ca3Fe2(OH)12     = 3.000Ca+2     + 2.000Fe+3     - 12.000H+     + 12.000H2O
+log_k    72.390
+
+Ca4Fe2(OH)14:6H2O     = 4.000Ca+2     + 2.000Fe+3     - 14.000H+     + 20.000H2O
+log_k    95.160
+
+Ca2Fe2O5     = 2.000Ca+2     + 2.000Fe+3     - 10.000H+     + 5.000H2O
+log_k    56.760
+
+CaFe2O4     = 1.000Ca+2     + 2.000Fe+3     - 8.000H+     + 4.000H2O
+log_k    21.240     #79ROB
+
+KFeAlSi4O10(OH)2     = 1.000K+     + 1.000Fe+2     + 1.000Al+3     - 6.000H+     + 4.000H4(SiO4)     - 4.000H2O
+log_k    10.220
+
+Fe5Al2Si3O10(OH)8     = 5.000Fe+2     + 2.000Al+3     - 16.000H+     + 3.000H4(SiO4)     + 6.000H2O
+log_k    47.600
+
+FeCr2O4     = 1.000Fe+2     - 8.000H+     + 2.000Cr+3     + 4.000H2O
+log_k    15.120
+
+Co(FeO2)2     = 2.000Fe+3     + 1.000Co+2     - 8.000H+     + 4.000H2O
+log_k     0.770
+
+Fe4SiO5(OH)4     = 2.000Fe+3     + 2.000Fe+2     - 10.000H+     + 1.000H4(SiO4)     + 5.000H2O
+log_k    16.110
+
+Ca6Fe2(SO4)3(OH)12:26H2O     = 6.000Ca+2     + 2.000Fe+3     - 12.000H+     + 3.000SO4-2     + 38.000H2O
+log_k    54.550     #10BLA/BOU2
+
+Fe2(SiO4)      = 2.000Fe+2     - 4.000H+     + 1.000H4(SiO4)
+log_k    19.510
+
+Fe(OH)2     = 1.000Fe+2     - 2.000H+     + 2.000H2O
+log_k    12.760
+
+Fe(PO4)     = 1.000Fe+3     - 2.000H+     + 1.000H2(PO4)-
+log_k    -6.240     #NAGRA, TR 91-18; F.J. PEARSON, U. BERNER, W. HUMMEL; Nagra thermochemical data base, supplemental data 05/92 (provient de la base 0391 MINEQL- PSY)
+
+Fe     = 1.000Fe+2     + 1.000H2O     - 2.000H+     - 0.500O2
+log_k    58.850     #95PAR/KHO in 98CHI
+
+Fe1.04Se     = 1.040Fe+2     - 1.080H+     + 1.000HSe-     + 0.040H2O     - 0.020O2
+log_k    -1.680
+
+Fe2(SeO3)3:6H2O     = 2.000Fe+3     + 3.000SeO3-2     + 6.000H2O
+log_k   -41.580     #05OLI/NOL
+
+Fe3Se4     = 3.000Fe+2     - 2.000H+     + 4.000HSe-     - 1.000H2O     + 0.500O2
+log_k   -68.590
+
+Fe5(OH)(PO4)3     = 5.000Fe+2     - 7.000H+     + 3.000H2(PO4)-     + 1.000H2O
+log_k  -402.320     #96FAL/REA
+
+Fe7Se8     = 7.000Fe+2     - 6.000H+     + 8.000HSe-     - 1.000H2O     + 0.500O2
+log_k   -78.590
+
+FeAl2O4     = 1.000Fe+2     + 2.000Al+3     - 8.000H+     + 4.000H2O
+log_k    27.200     #96FAL/REA
+
+FeMoO4     = 1.000Fe+2     + 1.000MoO4-2
+log_k    -8.350
+
+FeO     = 1.000Fe+2     - 2.000H+     + 1.000H2O
+log_k    13.370     #95ROB/HEM
+
+FeS     = 1.000Fe+2     - 1.000H+     + 1.000HS-
+log_k    -2.950     #91DAV
+
+Fe(OH)3     = 1.000Fe+3     - 3.000H+     + 3.000H2O
+log_k     2.540     #63SCH/MIC
+
+FeSe2     = 1.000Fe+2     + 2.000HSe-     - 1.000H2O     + 0.500O2
+log_k   -60.120     #05OLI/NOL
+
+FeSiO3     = 1.000Fe+2     - 2.000H+     + 1.000H4(SiO4)     - 1.000H2O
+log_k    32.710     #95TRO: CEA, N.T.SESD n� 95/49, L. TROTIGNON avril 1996; Critique et s�lection de donn�es thermodynamiques en vue de mod�liser les �quilibres min�ral - solution, rapport annuel 1995
+
+Fe(OH)3     = 1.000Fe+3     - 3.000H+     + 3.000H2O
+log_k     1.190     #05GRI
+
+(K0.75Mg0.25Fe1.5Al0.25)(Al0.25Si3.75)O10(OH)2     = 0.250Mg+2     + 0.750K+     + 1.250Fe+3     + 0.250Fe+2     + 0.500Al+3     - 7.000H+     + 3.750H4(SiO4)     - 3.000H2O
+log_k     1.860
+
+FeOOH     = 1.000Fe+3     - 3.000H+     + 2.000H2O
+log_k     0.390     #63SCH/MIC
+
+Fe3Si2O5(OH)4     = 3.000Fe+2     - 6.000H+     + 2.000H4(SiO4)     + 1.000H2O
+log_k    21.770
+
+Ca0.17Fe1.67Al0.67Si3.66O10(OH)2:4.45H2O     = 0.170Ca+2     + 1.670Fe+3     + 0.670Al+3     - 7.360H+     + 3.660H4(SiO4)     + 1.810H2O
+log_k    -2.830
+
+K0.34Fe1.67Al0.67Si3.66O10(OH)2:1.96H2O     = 0.340K+     + 1.670Fe+3     + 0.670Al+3     - 7.360H+     + 3.660H4(SiO4)     - 0.680H2O
+log_k    -2.700
+
+Mg0.17Fe1.67Al0.67Si3.66O10(OH)2:4.61H2O     = 0.170Mg+2     + 1.670Fe+3     + 0.670Al+3     - 7.360H+     + 3.660H4(SiO4)     + 1.970H2O
+log_k    -2.530
+
+Na0.34Fe1.67Al0.67Si3.66O10(OH)2:3.84H2O     = 0.340Na+     + 1.670Fe+3     + 0.670Al+3     - 7.360H+     + 3.660H4(SiO4)     + 1.200H2O
+log_k    -3.090
+
+Ca0.17Mg2FeAl0.34Si3.66O10(OH)2:4.45H2O     = 0.170Ca+2     + 2.000Mg+2     + 1.000Fe+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     + 1.810H2O
+log_k    27.980
+
+K0.34Mg2FeAl0.34Si3.66O10(OH)2:1.96H2O     = 2.000Mg+2     + 0.340K+     + 1.000Fe+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 0.680H2O
+log_k    28.110
+
+Mg0.17Mg2FeAl0.34Si3.66O10(OH)2:4.61H2O     = 2.170Mg+2     + 1.000Fe+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     + 1.970H2O
+log_k    28.070
+
+Na0.34Mg2FeAl0.34Si3.66O10(OH)2:3.84H2O     = 2.000Mg+2     + 0.340Na+     + 1.000Fe+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     + 1.200H2O
+log_k    27.720
+
+Fe2O3     = 2.000Fe+3     - 6.000H+     + 3.000H2O
+log_k    -1.020     #05GRI
+
+K0.85Fe0.25Al2.35Si3.4O10(OH)2     = 0.850K+     + 0.250Fe+2     + 2.350Al+3     - 8.400H+     + 3.400H4(SiO4)     - 1.600H2O
+log_k     9.450
+
+(Na0.134K0.53)(Si3.565Al0.435)(Al1.717Fe0.05Fe0.017Mg0.218)O10(OH)2:2.996H2O     = 0.218Mg+2     + 0.530K+     + 0.134Na+     + 0.050Fe+3     + 0.017Fe+2     + 2.152Al+3     - 7.740H+     + 3.565H4(SiO4)     + 0.736H2O
+log_k    13.650
+
+(Ca0.092K0.439)(Si3.559Al0.441)(Al1.728Fe0.011Fe0.034Mg0.255)O10(OH)2     = 0.092Ca+2     + 0.255Mg+2     + 0.439K+     + 0.034Fe+3     + 0.011Fe+2     + 2.169Al+3     - 7.764H+     + 3.559H4(SiO4)     - 2.236H2O
+log_k    10.900
+
+(Na0.044K0.762)(Si3.387Al0.613)(Al1.427Fe0.292Fe0.084Mg0.241)O10(OH)2     = 0.241Mg+2     + 0.762K+     + 0.044Na+     + 0.292Fe+3     + 0.084Fe+2     + 2.040Al+3     - 8.452H+     + 3.387H4(SiO4)     - 1.548H2O
+log_k    11.540
+
+KFe(CrO4)2:2H2O     = 1.000K+     + 1.000Fe+3     + 2.000CrO4-2     + 2.000H2O
+log_k   -19.390     #98BAR/PAL
+
+KFe3(CrO4)2(OH)6     = 1.000K+     + 3.000Fe+3     - 6.000H+     + 2.000CrO4-2     + 6.000H2O
+log_k   -18.400     #96BAR/PAL
+
+FeCl2     = 1.000Fe+2     + 2.000Cl-
+log_k     8.890
+
+FeOOH     = 1.000Fe+3     - 3.000H+     + 2.000H2O
+log_k     0.750     #98DIA2 in 98CHI
+
+FeS     = 1.000Fe+2     - 1.000H+     + 1.000HS-
+log_k    -3.600     #91DAV
+
+Fe2O3     = 2.000Fe+3     - 6.000H+     + 3.000H2O
+log_k     3.310     #98DIA1 in 98CHI
+
+Fe2O3     = 2.000Fe+3     - 6.000H+     + 3.000H2O
+log_k     3.520     #98DIA1 in 98CHI
+
+Fe3O4      = 2.000Fe+3     + 1.000Fe+2     - 8.000H+     + 4.000H2O
+log_k    10.410
+
+FeSO4:7H2O      = 1.000Fe+2     + 1.000SO4-2     + 7.000H2O
+log_k    -2.210     #90NOR/PLU
+
+Fe3Si4O10(OH)2     = 3.000Fe+2     - 6.000H+     + 4.000H4(SiO4)     - 4.000H2O
+log_k    14.930
+
+Ca4Fe2(SO4)(OH)12:6H2O     = 4.000Ca+2     + 2.000Fe+3     - 12.000H+     + 1.000SO4-2     + 18.000H2O
+log_k    66.050     #10BLA/BOU2
+
+Ca0.17Fe1.67Al0.67Si3.66O10(OH)2     = 0.170Ca+2     + 1.670Fe+3     + 0.670Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+log_k    -2.830
+
+K0.34Fe1.67Al0.67Si3.66O10(OH)2     = 0.340K+     + 1.670Fe+3     + 0.670Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+log_k    -4.000
+
+Mg0.17Fe1.67Al0.67Si3.66O10(OH)2     = 0.170Mg+2     + 1.670Fe+3     + 0.670Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+log_k    -3.370
+
+Na0.34Fe1.67Al0.67Si3.66O10(OH)2     = 0.340Na+     + 1.670Fe+3     + 0.670Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+log_k    -3.500
+
+Ca0.247K0.02(Si3.458Al0.542)(Fe1.688Al0.276Mg0.068)O10(OH)2     = 0.247Ca+2     + 0.068Mg+2     + 0.020K+     + 1.688Fe+3     + 0.818Al+3     + 3.458H4(SiO4)     - 1.832H2O     - 8.168H+
+log_k     1.350
+
+FeS2      = 1.000Fe+2     + 2.000HS-     - 1.000H2O     + 0.500O2
+log_k   -58.780
+
+Fe0.87S     = 0.870Fe+2     - 0.740H+     + 1.000HS-     - 0.130H2O     + 0.065O2
+log_k   -11.179
+
+(Mg2.964Fe1.712Fe0.215Al1.116Ca0.011)(Si2.633Al1.367)O10(OH)8     = 0.011Ca+2     + 2.964Mg+2     + 0.215Fe+3     + 1.712Fe+2     + 2.483Al+3     - 17.468H+     + 2.633H4(SiO4)     + 7.468H2O
+log_k    61.350
+
+Ca0.17Mg2FeAl0.34Si3.66O10(OH)2     = 0.170Ca+2     + 2.000Mg+2     + 1.000Fe+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+log_k    26.550
+
+K0.34Mg2FeAl0.34Si3.66O10(OH)2     = 2.000Mg+2     + 0.340K+     + 1.000Fe+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+log_k    25.380
+
+Mg0.17Mg2FeAl0.34Si3.66O10(OH)2     = 2.170Mg+2     + 1.000Fe+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+log_k    26.000
+
+Na0.34Mg2FeAl0.34Si3.66O10(OH)2     = 2.000Mg+2     + 0.340Na+     + 1.000Fe+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+log_k    25.700
+
+(Na0.394K0.021Ca0.038)(Si3.569Al0.397)(Mg2.949Fe0.034Fe0.021)O10(OH)2     = 0.038Ca+2     + 2.949Mg+2     + 0.021K+     + 0.394Na+     + 0.034Fe+3     + 0.021Fe+2     + 0.397Al+3     - 7.724H+     + 3.569H4(SiO4)     - 2.276H2O
+log_k    31.470
+
+(Na0.394K0.021Ca0.038)(Si3.569Al0.397)(Mg2.949Fe0.034Fe0.021)O10(OH)2:4.151H2O     = 0.038Ca+2     + 2.949Mg+2     + 0.021K+     + 0.394Na+     + 0.034Fe+3     + 0.021Fe+2     + 0.397Al+3     - 7.724H+     + 3.569H4(SiO4)     + 1.875H2O
+log_k    28.300
+
+Fe(CO3)     = 1.000Fe+2     + 1.000CO3-2
+log_k   -10.800     #92BRU/WER
+
+KFe2Al3Si2O10(OH)2     = 1.000K+     + 2.000Fe+2     + 3.000Al+3     - 14.000H+     + 2.000H4(SiO4)     + 4.000H2O
+log_k    40.570
+
+Na0.409K0.024Ca0.009(Si3.738Al0.262)(Al1.598Mg0.214Fe0.173Fe0.035)O10(OH)2     = 0.009Ca+2     + 0.214Mg+2     + 0.024K+     + 0.409Na+     + 0.173Fe+3     + 1.860Al+3     + 3.738H4(SiO4)     + 0.035Fe+2     - 2.952H2O     - 7.048H+
+log_k     5.270
+
+(Ca0.009Na0.409K0.024)(Si3.738Al0.262)(Al1.598Fe0.173Fe0.035Mg0.214)O10(OH)2:3.989H2O     = 0.009Ca+2     + 0.214Mg+2     + 0.024K+     + 0.409Na+     + 0.173Fe+3     + 0.035Fe+2     + 1.860Al+3     - 7.048H+     + 3.738H4(SiO4)     + 1.037H2O
+log_k     1.780
+
+(Ca0.009Na0.409K0.024)(Si3.738Al0.262)(Al1.598Fe0.173Fe0.035Mg0.214)O10(OH)2:5.189H2O     = 0.009Ca+2     + 0.214Mg+2     + 0.024K+     + 0.409Na+     + 0.173Fe+3     + 0.035Fe+2     + 1.860Al+3     - 7.048H+     + 3.738H4(SiO4)     + 2.237H2O
+log_k     1.440
+
+Fe2NiO4     = 2.000Fe+3     + 1.000Ni+2     - 8.000H+     + 4.000H2O
+log_k     9.400
+
+FeS      = 1.000Fe+2     - 1.000H+     + 1.000HS-
+log_k    -5.310     #91DAV
+
+(Ca0.445)(Si2.778Al1.222)(Al0.216Fe0.226Fe0.028Mg2.475)O10(OH)2     = 0.445Ca+2     + 2.475Mg+2     + 0.226Fe+3     + 1.438Al+3     + 2.778H4(SiO4)     + 0.028Fe+2     + 0.888H2O     - 10.888H+
+log_k    45.910
+
+Fe3(PO4)2:8H2O     = 3.000Fe+2     - 4.000H+     + 2.000H2(PO4)-     + 8.000H2O
+log_k     3.120
+
+K0.85Fe0.25Al2.6Si3.15O10(OH)2     = 0.850K+     + 0.250Fe+3     + 2.600Al+3     - 9.400H+     + 3.150H4(SiO4)     - 0.600H2O
+log_k    12.370
+----------------------------------------------------
+Find from: core
+----------------------------------------------------
+
+
+Fe+2 = Fe+2
+log_k		0
+
+H+ + Fe+2 + 0.25 O2 = Fe+3 + 0.5 H2O
+log_k		8.4899
+
+2 CH3COOH + Fe+2 = Fe(CH3COO)2 + 2 H+
+log_k		-7.0295
+
+Fe+2 + CH3COOH = FeCH3COO+ + H+
+log_k		-3.4671
+
+Fe+2 + Cl- = FeCl+
+log_k		-0.1605
+
+Fe+3 + Cl- = FeCl+2
+log_k		-0.8108
+
+2 Cl- + Fe+2 = FeCl2
+log_k		-2.4541
+
+H2O + Fe+2 = FeOH+ + H+
+log_k		-9.5
+
+H2O + Fe+3 = FeOH+2 + H+
+log_k		-2.19
+
+Ca3Fe2(SiO4)3 + 12 H+ = 2 Fe+3 + 3 Ca+2 + 3 SiO2 + 6 H2O
+log_k		33.3352
+
+KFe3AlSi3O10(OH)2 + 10 H+ = Al+3 + K+ + 3 Fe+2 + 3 SiO2 + 6 H2O
+log_k		29.4693
+
+Fe(UO2)2(PO4)2 + 2 H+ = Fe+2 + 2 HPO4-2 + 2 UO2+2
+log_k		-17.7240
+
+Fe.175Al2.35Si3.65O10(OH)2 + 7.4 H+ = 0.175 Fe+2 + 2.35 Al+3 + 3.65 SiO2 + 4.7 H2O
+log_k		4.6335
+
+Cu5FeS4 + 4 H+ = Cu+2 + Fe+2 + 4 Cu+ + 4 HS-
+log_k		-102.4369
+
+Ca4Al2Fe2O10 + 20 H+ = 2 Al+3 + 2 Fe+3 + 4 Ca+2 + 10 H2O
+log_k		140.5050
+
+CuFeS2 + 2 H+ = Cu+2 + Fe+2 + 2 HS-
+log_k		-32.5638
+
+Fe5Al2Si3O10(OH)8 + 16 H+ = 3 SiO2 + 2 Al+3 + 5 Fe+2 + 12 H2O
+log_k		32.8416
+
+FeCr2O4 + 8 H+ = Fe+2 + 2 Cr+3 + 4 H2O
+log_k		15.1685
+
+Ca1.7335Al3.45Fe.017Si14.533O36:10.922H2O + 13.868 H+ = 0.017 Fe+3 + 1.7335 Ca+2 + 3.45 Al+3 + 14.533 SiO2 + 17.856 H2O
+log_k		-7.0095
+
+K3.467Al3.45Fe.017Si14.533O36:10.922H2O + 13.868 H+ = 0.017 Fe+3 + 3.45 Al+3 + 3.467 K+ + 14.533 SiO2 + 17.856 H2O
+log_k		-10.9485
+
+Na3.467Al3.45Fe.017Si14.533O36:10.922H2O + 13.868 H+ = 0.017 Fe+3 + 3.45 Al+3 + 3.467 Na+ + 14.533 SiO2 + 17.856 H2O
+log_k		-7.1363
+
+CoFe2O4 + 8 H+ = Co+2 + 2 Fe+3 + 4 H2O
+log_k		0.8729
+
+Fe2Fe2SiO5(OH)4 + 10 H+ = SiO2 + 2 Fe+2 + 2 Fe+3 + 7 H2O
+log_k		16.2603
+
+Fe5AlAlSi3O10(OH)8 + 16 H+ = 2 Al+3 + 3 SiO2 + 5 Fe+2 + 12 H2O
+log_k		52.2821
+
+Fe5AlAlSi3O10(OH)8 + 16 H+ = 2 Al+3 + 3 SiO2 + 5 Fe+2 + 12 H2O
+log_k	55.6554
+
+CuFeO2 + 4 H+ = Cu+ + Fe+3 + 2 H2O
+log_k		-6.4172
+
+Ca2FeAl2Si3O12OH + 13 H+ = Fe+3 + 2 Al+3 + 2 Ca+2 + 3 SiO2 + 7 H2O
+log_k		32.9296
+
+FeCa2Al2(OH)(SiO4)3 + 13 H+ = Fe+3 + 2 Al+3 + 2 Ca+2 + 3 SiO2 + 7 H2O
+log_k		32.9296
+
+Fe2SiO4 + 4 H+ = SiO2 + 2 Fe+2 + 2 H2O
+log_k		19.1113
+
+Fe + 2 H+ + 0.5 O2 = Fe+2 + H2O
+log_k		59.0325
+
+Fe(OH)2 + 2 H+ = Fe+2 + 2 H2O
+log_k		13.9045
+
+Fe(OH)3 + 3 H+ = Fe+3 + 3 H2O
+log_k		5.6556
+
+Fe2(SO4)3 = 2 Fe+3 + 3 SO4-2
+log_k		3.2058
+
+FeO + 2 H+ = Fe+2 + H2O
+log_k		13.5318
+
+FeSO4 = Fe+2 + SO4-2
+log_k		2.6565
+
+CaFe2O4 + 8 H+ = Ca+2 + 2 Fe+3 + 4 H2O
+log_k		21.5217
+
+CuFe2O4 + 8 H+ = Cu+2 + 2 Fe+3 + 4 H2O
+log_k		10.3160
+
+Ca2Fe2O5 + 10 H+ = 2 Ca+2 + 2 Fe+3 + 5 H2O
+log_k		56.8331
+
+MgFe2O4 + 8 H+ = Mg+2 + 2 Fe+3 + 4 H2O
+log_k		21.0551
+
+ZnFe2O4 + 8 H+ = Zn+2 + 2 Fe+3 + 4 H2O
+log_k		11.7342
+
+FeSiO3 + 2 H+ = Fe+2 + H2O + SiO2
+log_k		7.4471
+
+FeOOH + 3 H+ = Fe+3 + 2 H2O
+log_k		0.5345
+
+Fe3Si2O5(OH)4 + 6 H+ = 2 SiO2 + 3 Fe+2 + 5 H2O
+log_k		22.6701
+
+CaFe(SiO3)2 + 4 H+ = Ca+2 + Fe+2 + 2 H2O + 2 SiO2
+log_k		19.6060
+
+Fe2O3 + 6 H+ = 2 Fe+3 + 3 H2O
+log_k		0.1086
+
+FeAl2O4 + 8 H+ = Fe+2 + 2 Al+3 + 4 H2O
+log_k		28.8484
+
+FeTiO3 + 2 H+ + H2O = Fe+2 + Ti(OH)4
+log_k		0.9046
+
+KFe3(SO4)2(OH)6 + 6 H+ = K+ + 2 SO4-2 + 3 Fe+3 + 6 H2O
+log_k		-9.3706
+
+FeCl2 = Fe+2 + 2 Cl-
+log_k		9.0945
+
+Fe3O4 + 8 H+ = Fe+2 + 2 Fe+3 + 4 H2O
+log_k		10.4724
+
+FeSO4:7H2O = Fe+2 + SO4-2 + 7 H2O
+log_k		-2.3490
+
+Fe3Si4O10(OH)2 + 6 H+ = 3 Fe+2 + 4 H2O + 4 SiO2
+log_k		13.9805
+
+FeCl3 = Fe+3 + 3 Cl-
+log_k		13.5517
+
+NaFeO2 + 4 H+ = Fe+3 + Na+ + 2 H2O
+log_k		19.8899
+
+Ca.175Fe2Al.35Si3.65H2O12 + 7.4 H+ = 0.175 Ca+2 + 0.35 Al+3 + 2 Fe+3 + 3.65 SiO2 + 4.7 H2O
+log_k		-11.5822
+
+K.35Fe2Al.35Si3.65H2O12 + 7.4 H+ = 0.35 Al+3 + 0.35 K+ + 2 Fe+3 + 3.65 SiO2 + 4.7 H2O
+log_k		-11.8648
+
+Mg.175Fe2Al.35Si3.65H2O12 + 7.4 H+ = 0.175 Mg+2 + 0.35 Al+3 + 2 Fe+3 + 3.65 SiO2 + 4.7 H2O
+log_k		-11.6200
+
+Na.35Fe2Al.35Si3.65H2O12 + 7.4 H+ = 0.35 Al+3 + 0.35 Na+ + 2 Fe+3 + 3.65 SiO2 + 4.7 H2O
+log_k		-11.5263
+
+FeS2 + H2O = 0.25 H+ + 0.25 SO4-2 + Fe+2 + 1.75 HS-
+log_k		-24.6534
+
+FeS + H+ = Fe+2 + HS-
+log_k		-3.7193
+
+Mg3Fe2Al2Si3O10(OH)8 + 16 H+ = 2 Al+3 + 2 Fe+2 + 3 Mg+2 + 3 SiO2 + 12 H2O
+log_k		60.9638
+
+Ca.175Fe3Al.35Si3.65O10(OH)2 + 7.4 H+ = 0.175 Ca+2 + 0.35 Al+3 + 3 Fe+2 + 3.65 SiO2 + 4.7 H2O
+log_k		20.3624
+
+Fe3.175Al.35Si3.65O10(OH)2 + 7.4 H+ = 0.35 Al+3 + 3.175 Fe+2 + 3.65 SiO2 + 4.7 H2O
+log_k		18.9359
+
+K.35Fe3Al.35Si3.65O10(OH)2 + 7.4 H+ = 0.35 K+ + 0.35 Al+3 + 3 Fe+2 + 3.65 SiO2 + 4.7 H2O
+log_k		18.7937
+
+Mg.175Fe3Al.35Si3.65O10(OH)2 + 7.4 H+ = 0.175 Mg+2 + 0.35 Al+3 + 3 Fe+2 + 3.65 SiO2 + 4.7 H2O
+log_k		19.5290
+
+Na.35Fe3Al.35Si3.65O10(OH)2 + 7.4 H+ = 0.35 Na+ + 0.35 Al+3 + 3 Fe+2 + 3.65 SiO2 + 4.7 H2O
+log_k		19.7977
+
+Fe.175Mg3Al.35Si3.65O10(OH)2 + 7.4 H+ = 0.175 Fe+2 + 0.35 Al+3 + 3 Mg+2 + 3.65 SiO2 + 4.7 H2O
+log_k		27.6789
+
+FeCO3 + H+ = Fe+2 + HCO3-
+log_k		-0.1920
+
+Ca.025Na.1K.2Fe.5Fe.2Mg1.15Al1.25Si3.5H2O12 + 8 H+ = 0.025 Ca+2 + 0.1 Na+ + 0.2 Fe+3 + 0.2 K+ + 0.5 Fe+2 + 1.15 Mg+2 + 1.25 Al+3 + 3.5 SiO2 + 5 H2O
+log_k		17.4200
+
+Ca.02Na.15K.2Fe.29Fe.16Mg.9Al1.25Si3.75H2O12 + 7 H+ = 0.02 Ca+2 + 0.15 Na+ + 0.16 Fe+3 + 0.2 K+ + 0.29 Fe+2 + 0.9 Mg+2 + 1.25 Al+3 + 3.75 SiO2 + 4.5 H2O
+log_k		11.0405
+
+FePO4:2H2O + H+ = Fe+3 + HPO4-2 + 2 H2O
+log_k		-11.3429
+
+NiFe2O4 + 8 H+ = Ni+2 + 2 Fe+3 + 4 H2O
+log_k		9.7876
+
+FeS + H+ = Fe+2 + HS-
+log_k		-3.8184
+
+Fe.947O + 2 H+ = 0.106 Fe+3 + 0.841 Fe+2 + H2O
+log_k		12.4113
+----------------------------------------------------
+Find from: min
+----------------------------------------------------
+
+
+Fe+3 = Fe+3
+log_k 0
+
+Fe+3 + e- = Fe+2
+log_k	13.032
+
+Fe+2 + H2O = FeOH+ + H+
+log_k	-9.397
+
+Fe+2 + 2H2O = Fe(OH)2 + 2H+
+log_k	-20.494
+
+Fe+2 + 3H2O = Fe(OH)3- + 3H+
+log_k	-28.991
+
+Fe+3 + H2O = FeOH+2 + H+
+log_k	-2.187
+
+Fe+3 + 2H2O = Fe(OH)2+ + 2H+
+log_k	-4.594
+
+Fe+3 + 3H2O = Fe(OH)3 + 3H+
+log_k	-12.56
+
+Fe+3 + 4H2O = Fe(OH)4- + 4H+
+log_k	-21.588
+
+2Fe+3 + 2H2O = Fe2(OH)2+4 + 2H+
+log_k	-2.854
+
+3Fe+3 + 4H2O = Fe3(OH)4+5 + 4H+
+log_k	-6.288
+
+Fe+3 + F- = FeF+2
+log_k	6.04
+
+Fe+3 + 2F- = FeF2+
+log_k	10.4675
+
+Fe+3 + 3F- = FeF3
+log_k	13.617
+
+Fe+3 + Cl- = FeCl+2
+log_k	1.48
+
+Fe+3 + 2Cl- = FeCl2+
+log_k	2.13
+
+Fe+3 + 3Cl- = FeCl3
+log_k	1.13
+
+Fe+2 + 2HS- = Fe(HS)2
+log_k	8.95
+
+Fe+2 + 3HS- = Fe(HS)3-
+log_k	10.987
+
+Fe+2 + SO4-2 = FeSO4
+log_k	2.39
+
+Fe+3 + SO4-2 = FeSO4+
+log_k	4.05
+
+Fe+3 + 2SO4-2 = Fe(SO4)2-
+log_k	5.38
+
+Fe+3 + HSeO3- = FeHSeO3+2
+log_k	3.422
+
+Fe+3 + NO3- = FeNO3+2
+log_k	1
+
+Fe+2 + 6Cyanide- = Fe(Cyanide)6-4
+log_k	35.4
+
+H+ + Fe+2 + 6Cyanide- = HFe(Cyanide)6-3
+log_k	39.71
+
+2H+ + Fe+2 + 6Cyanide- = H2Fe(Cyanide)6-2
+log_k	42.11
+
+Fe+3 + 6Cyanide- = Fe(Cyanide)6-3
+log_k	43.6
+
+2Fe+3 + 6Cyanide- = Fe2(Cyanide)6
+log_k	47.6355
+
+Sn(OH)2 + Fe+3 + 6Cyanide- + 2H+ = SnFe(Cyanide)6- + 2H2O
+log_k	53.54
+
+NH4+ + Fe+2 + 6Cyanide- = NH4Fe(Cyanide)6-3
+log_k	37.7
+
+Tl+ + Fe+2 + 6Cyanide- = TlFe(Cyanide)6-3
+log_k	38.4
+
+Mg+2 + Fe+3 + 6Cyanide- = MgFe(Cyanide)6-
+log_k	46.39
+
+Mg+2 + Fe+2 + 6Cyanide- = MgFe(Cyanide)6-2
+log_k	39.21
+
+Ca+2 + Fe+3 + 6Cyanide- = CaFe(Cyanide)6-
+log_k	46.43
+
+Ca+2 + Fe+2 + 6Cyanide- = CaFe(Cyanide)6-2
+log_k	39.1
+
+2Ca+2 + Fe+2 + 6Cyanide- = Ca2Fe(Cyanide)6
+log_k	40.6
+
+Sr+2 + Fe+3 + 6Cyanide- = SrFe(Cyanide)6-
+log_k	46.45
+
+Sr+2 + Fe+2 + 6Cyanide- = SrFe(Cyanide)6-2
+log_k	39.1
+
+Ba+2 + Fe+2 + 6Cyanide- = BaFe(Cyanide)6-2
+log_k	39.19
+
+Ba+2 + Fe+3 + 6Cyanide- = BaFe(Cyanide)6-
+log_k	46.48
+
+Na+ + Fe+2 + 6Cyanide- = NaFe(Cyanide)6-3
+log_k	37.6
+
+K+ + Fe+2 + 6Cyanide- = KFe(Cyanide)6-3
+log_k	37.75
+
+K+ + Fe+3 + 6Cyanide- = KFe(Cyanide)6-2
+log_k	45.04
+
+Fe+2 + 2H+ + PO4-3 = FeH2PO4+
+log_k	22.273
+
+Fe+2 + H+ + PO4-3 = FeHPO4
+log_k	15.975
+
+Fe+3 + 2H+ + PO4-3 = FeH2PO4+2
+log_k	23.8515
+
+Fe+3 + H+ + PO4-3 = FeHPO4+
+log_k	22.292
+
+Fe+2 + H+ + CO3-2 = FeHCO3+
+log_k	11.429
+
+Fe+2 + Ethylenediamine = Fe(Ethylenediamine)+2
+log_k	4.26
+
+Fe+2 + 2Ethylenediamine = Fe(Ethylenediamine)2+2
+log_k	7.73
+
+Fe+2 + 3Ethylenediamine = Fe(Ethylenediamine)3+2
+log_k	10.17
+
+Fe+2 + Citrate-3 = Fe(Citrate)-
+log_k	6.1
+
+Fe+2 + Citrate-3 + H+ = FeH(Citrate)
+log_k	10.2
+
+Fe+3 + Citrate-3 = Fe(Citrate)
+log_k	13.1
+
+Fe+3 + Citrate-3 + H+ = FeH(Citrate)+
+log_k	14.4
+
+Fe+2 + Nta-3 = Fe(Nta)-
+log_k	10.19
+
+Fe+2 + 2Nta-3 = Fe(Nta)2-4
+log_k	12.62
+
+Fe+2 + Nta-3 + H+ = FeH(Nta)
+log_k	12.29
+
+Fe+2 + Nta-3 + H2O = FeOH(Nta)-2 + H+
+log_k	-1.06
+
+Fe+3 + Nta-3 = Fe(Nta)
+log_k	17.8
+
+Fe+3 + 2Nta-3 = Fe(Nta)2-3
+log_k	25.9
+
+Fe+3 + Nta-3 + H2O = FeOH(Nta)- + H+
+log_k	13.23
+
+Fe+2 + Edta-4 = Fe(Edta)-2
+log_k	16
+
+Fe+2 + Edta-4 + H+ = FeH(Edta)-
+log_k	19.06
+
+Fe+2 + Edta-4 + H2O = FeOH(Edta)-3 + H+
+log_k	6.5
+
+Fe+2 + Edta-4 + 2H2O = Fe(OH)2(Edta)-4 + 2H+
+log_k	-4
+
+Fe+3 + Edta-4 = Fe(Edta)-
+log_k	27.7
+
+Fe+3 + Edta-4 + H+ = FeH(Edta)
+log_k	29.2
+
+Fe+3 + Edta-4 + H2O = FeOH(Edta)-2 + H+
+log_k	19.9
+
+Fe+3 + Edta-4 + 2H2O = Fe(OH)2(Edta)-3 + 2H+
+log_k	9.85
+
+Fe+3 + Propionate- = Fe(Propionate)+2
+log_k	4.012
+
+Fe+3 + Isobutyrate- = Fe(Isobutyrate)+2
+log_k	4.2
+
+Fe+2 + Acetate- = Fe(Acetate)+
+log_k	1.4
+
+Fe+3 + Acetate- = Fe(Acetate)+2
+log_k	4.0234
+
+Fe+3 + 2Acetate- = Fe(Acetate)2+
+log_k	7.5723
+
+Fe+3 + 3Acetate- = Fe(Acetate)3
+log_k	9.5867
+
+Fe+2 + Tartarate-2 = Fe(Tartarate)
+log_k	3.1
+
+Fe+3 + Tartarate-2 = Fe(Tartarate)+
+log_k	7.78
+
+Fe+2 + Glycine- = Fe(Glycine)+
+log_k	4.31
+
+Fe+2 + 2Glycine- = Fe(Glycine)2
+log_k	8.29
+
+Fe+3 + Glycine- = Fe(Glycine)+2
+log_k	9.38
+
+Fe+3 + Glycine- + H+ = FeH(Glycine)+3
+log_k	11.55
+
+Fe+2 + Salicylate-2 = Fe(Salicylate)
+log_k	7.2
+
+Fe+2 + 2Salicylate-2 = Fe(Salicylate)2-2
+log_k	11.6
+
+Fe+3 + Salicylate-2 = Fe(Salicylate)+
+log_k	17.6
+
+Fe+3 + 2Salicylate-2 = Fe(Salicylate)2-
+log_k	29.3
+
+CuFeS2 + 2H+ = Cu+2 + Fe+2 + 2HS-
+log_k	-35.27
+
+FeS + H+ = Fe+2 + HS-
+log_k	-2.95
+
+Fe3S4 + 4H+ = 2Fe+3 + Fe+2 + 4HS-
+log_k	-45.035
+
+FeS + H+ = Fe+2 + HS-
+log_k	-3.6
+
+FeS2 + 2H+ + 2e- = Fe+2 + 2HS-
+log_k	-18.5082
+
+Pb2Fe(Cyanide)6 = 2Pb+2 + Fe+2 + 6Cyanide-
+log_k	-53.42
+
+Zn2Fe(Cyanide)6 = 2Zn+2 + Fe+2 + 6Cyanide-
+log_k	-51.08
+
+Cd2Fe(Cyanide)6 = 2Cd+2 + Fe+2 + 6Cyanide-
+log_k	-52.78
+
+Ag4Fe(Cyanide)6 = 4Ag+ + Fe+2 + 6Cyanide-
+log_k	-79.47
+
+Ag3Fe(Cyanide)6 = 3Ag+ + Fe+3 + 6Cyanide-
+log_k	-72.7867
+
+Mn3(Fe(Cyanide)6)2 = 3Mn+2 + 2Fe+3 + 12Cyanide-
+log_k	-105.4
+
+FeSe + H+ = Fe+2 + HSe-
+log_k	-11
+
+FeSe2 + 2H+ + 2e- = 2HSe- + Fe+2
+log_k	-18.5959
+
+WUSTITE-0.11 + 2H+ = 0.947Fe+2 + H2O
+log_k	11.6879
+
+Fe(OH)2 + 2H+ = Fe+2 + 2H2O
+log_k	13.564
+
+Fe(OH)3 + 3H+ = Fe+3 + 3H2O
+log_k	3.191
+
+Fe3(OH)8 + 8H+ = 2Fe+3 + Fe+2 + 8H2O
+log_k	20.222
+
+FeOOH + 3H+ = Fe+3 + 2H2O
+log_k	0.491
+
+CoFe2O4 + 8H+ = Co+2 + 2Fe+3 + 4H2O
+log_k	-3.5281
+
+Fe3O4 + 8H+ = 2Fe+3 + Fe+2 + 4H2O
+log_k	3.4028
+
+FeAl2O4 + 8H+ = Fe+2 + 2Al+3 + 4H2O
+log_k	22.893
+
+Fe2O3 + 6H+ = 2Fe+3 + 3H2O
+log_k	-1.418
+
+Fe2O3 + 6H+ = 2Fe+3 + 3H2O
+log_k	6.386
+
+FeOOH + 3H+ = Fe+3 + 2H2O
+log_k	1.371
+
+Fe2MgO4 + 8H+ = Mg+2 + 2Fe+3 + 4H2O
+log_k	16.8597
+
+CuFeO2 + 4H+ = Cu+ + Fe+3 + 2H2O
+log_k	-8.9171
+
+CuFe2O4 + 8H+ = Cu+2 + 2Fe+3 + 4H2O
+log_k	5.9882
+
+FeCr2O4 + 4H+ = 2Cr(OH)2+ + Fe+2
+log_k	7.2003
+
+Fe(OH)2.7Cl.3 + 2.7H+ = Fe+3 + 2.7H2O + 0.3Cl-
+log_k	-3.04
+
+FeCO3 = Fe+2 + CO3-2
+log_k	-10.24
+
+FeSO4:7H2O = Fe+2 + SO4-2 + 7H2O
+log_k	-2.209
+
+Fe2(SO4)3 = 2Fe+3 + 3SO4-2
+log_k	-3.7343
+
+(H3O)Fe3(SO4)2(OH)6 + 5H+ = 3Fe+3 + 2SO4-2 + 7H2O
+log_k	-12.1
+
+NaFe3(SO4)2(OH)6 + 6H+ = Na+ + 3Fe+3 + 2SO4-2 + 6H2O
+log_k	-11.2
+
+KFe3(SO4)2(OH)6 + 6H+ = K+ + 3Fe+3 + 2SO4-2 + 6H2O
+log_k	-14.8
+
+Fe2(SeO3)3:2H2O + 3H+ = 3HSeO3- + 2Fe+3 + 2H2O
+log_k	-20.6262
+
+Fe2(OH)4SeO3 + 5H+ = HSeO3- + 2Fe+3 + 4H2O
+log_k	1.5539
+
+FeMoO4 = MoO4-2 + Fe+2
+log_k	-10.091
+
+Fe3(PO4)2:8H2O = 3Fe+2 + 2PO4-3 + 8H2O
+log_k	-36
+
+FePO4:2H2O = Fe+3 + PO4-3 + 2H2O
+log_k	-26.4
+
+Fe(UO2)2(PO4)2 = 2UO2+2 + Fe+2 + 2PO4-3
+log_k	-44.485
+
+FeAsO4:2H2O + 3H+ = Fe+3 + H3AsO4 + 2H2O
+log_k	0.4
+
+Fe(VO3)2 + 4H+ = Fe+2 + 2VO2+ + 2H2O
+log_k	-3.72
+
+Fe3Si2O5(OH)4 + 6H+ = 3Fe+2 + 2H4SiO4 + H2O
+log_k	20.81
